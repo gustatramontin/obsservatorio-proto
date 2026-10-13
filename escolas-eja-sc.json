@@ -1,0 +1,476 @@
+[
+{"escola":"EBM PROFESSOR ALTINO CORSINO DA SILVA FLORES","municipio":"São José","latitude":-27.58614333,"longitude":-48.60678,"qt_mat_eja":64,"qt_mat_eja_fund":64,"qt_mat_eja_med":0}
+,{"escola":"CEM RENASCER","municipio":"São José","latitude":-27.57067261,"longitude":-48.64271451,"qt_mat_eja":61,"qt_mat_eja_fund":61,"qt_mat_eja_med":0}
+,{"escola":"EB GUILHERME WIETHORN FILHO","municipio":"Palhoça","latitude":-27.6557784,"longitude":-48.6723888,"qt_mat_eja":109,"qt_mat_eja_fund":109,"qt_mat_eja_med":0}
+,{"escola":"GE PROFª MARIA LUZIA DE SOUZA","municipio":"Palhoça","latitude":-27.82950568,"longitude":-48.61625193,"qt_mat_eja":32,"qt_mat_eja_fund":32,"qt_mat_eja_med":0}
+,{"escola":"CENTRO EDUC SESC LER","municipio":"Canoinhas","latitude":-26.18328473,"longitude":-50.36772728,"qt_mat_eja":21,"qt_mat_eja_fund":21,"qt_mat_eja_med":0}
+,{"escola":"CENTRO DE DESENV EDUC EXPRESSAO LTDA ME","municipio":"Lages","latitude":-27.8113695,"longitude":-50.3117789,"qt_mat_eja":111,"qt_mat_eja_fund":27,"qt_mat_eja_med":84}
+,{"escola":"CENTRO DE EDUCACAO MUNICIPAL JOAO MANOEL DE SOUZA","municipio":"Sangão","latitude":-28.6469084,"longitude":-49.1015959,"qt_mat_eja":49,"qt_mat_eja_fund":19,"qt_mat_eja_med":30}
+,{"escola":"ESCOLA MUNICIPAL POLIDORO SANTIAGO","municipio":"Timbó","latitude":-26.824875,"longitude":-49.2696314,"qt_mat_eja":8,"qt_mat_eja_fund":8,"qt_mat_eja_med":0}
+,{"escola":"ESC MUN EXPEDICIONARIO SERVINO MENGARDA","municipio":"Rio dos Cedros","latitude":-26.7084182,"longitude":-49.2696431,"qt_mat_eja":123,"qt_mat_eja_fund":48,"qt_mat_eja_med":75}
+,{"escola":"IFC - CAMPUS ARAQUARI","municipio":"Araquari","latitude":-26.39469,"longitude":-48.73851,"qt_mat_eja":61,"qt_mat_eja_fund":0,"qt_mat_eja_med":61}
+,{"escola":"EJA EDUCACAO DE JOVENS E ADULTOS","municipio":"Barra Velha","latitude":-26.6511605,"longitude":-48.6884738,"qt_mat_eja":52,"qt_mat_eja_fund":52,"qt_mat_eja_med":0}
+,{"escola":"EJASC EDUCACAO DE JOVENS E ADULTOS","municipio":"Santa Cecília","latitude":-26.9700489,"longitude":-50.4176871,"qt_mat_eja":24,"qt_mat_eja_fund":24,"qt_mat_eja_med":0}
+,{"escola":"COOEPE - COOPERATIVA DE ED DE PROFESSORES E ESPECIALISTAS","municipio":"Xaxim","latitude":-26.95869,"longitude":-52.53218,"qt_mat_eja":65,"qt_mat_eja_fund":20,"qt_mat_eja_med":45}
+,{"escola":"EJA NUCLEO DE EDUCACAO DE JOVENS E ADULTOS","municipio":"Porto União","latitude":-26.23567318,"longitude":-51.08172018,"qt_mat_eja":48,"qt_mat_eja_fund":48,"qt_mat_eja_med":0}
+,{"escola":"EMEB PIERINA SANTIN PERRET","municipio":"Caçador","latitude":-26.7745885,"longitude":-51.0323623,"qt_mat_eja":14,"qt_mat_eja_fund":14,"qt_mat_eja_med":0}
+,{"escola":"IFSC - CAMPUS CANOINHAS","municipio":"Canoinhas","latitude":-26.18428333,"longitude":-50.36836833,"qt_mat_eja":35,"qt_mat_eja_fund":0,"qt_mat_eja_med":35}
+,{"escola":"COOEPE","municipio":"Jaraguá do Sul","latitude":-26.491041,"longitude":-49.0768609,"qt_mat_eja":21,"qt_mat_eja_fund":5,"qt_mat_eja_med":16}
+,{"escola":"EEBM PADRE BIAGIO SIMONETTI","municipio":"Fraiburgo","latitude":-27.03106333,"longitude":-50.91727,"qt_mat_eja":123,"qt_mat_eja_fund":123,"qt_mat_eja_med":0}
+,{"escola":"EEB PREFEITO QUINTILIANO JOAO PACHECO","municipio":"São João do Sul","latitude":-29.21790333,"longitude":-49.80387333,"qt_mat_eja":52,"qt_mat_eja_fund":25,"qt_mat_eja_med":27}
+,{"escola":"EBM JUCELIA DE OLIVEIRA CLAUMANN","municipio":"Araranguá","latitude":-28.95120843,"longitude":-49.48801009,"qt_mat_eja":101,"qt_mat_eja_fund":101,"qt_mat_eja_med":0}
+,{"escola":"EIEB CACIQUE WERA PUKU","municipio":"Araquari","latitude":-26.4458712,"longitude":-48.8230464,"qt_mat_eja":2,"qt_mat_eja_fund":2,"qt_mat_eja_med":0}
+,{"escola":"IFC - CAMPUS BLUMENAU","municipio":"Blumenau","latitude":-26.88193928,"longitude":-49.13699551,"qt_mat_eja":59,"qt_mat_eja_fund":0,"qt_mat_eja_med":59}
+,{"escola":"EB MUNICIPAL PROFª MARA LUIZA VIEIRA LIBERATO","municipio":"Palhoça","latitude":-27.64303561,"longitude":-48.70294783,"qt_mat_eja":75,"qt_mat_eja_fund":75,"qt_mat_eja_med":0}
+,{"escola":"ESC MUN PROF NAIR REBELO DOS SANTOS","municipio":"Porto Belo","latitude":-27.15922886,"longitude":-48.56275879,"qt_mat_eja":157,"qt_mat_eja_fund":157,"qt_mat_eja_med":0}
+,{"escola":"EMEB BENTO ELOI GARCIA","municipio":"Itapema","latitude":-27.1161756,"longitude":-48.616612,"qt_mat_eja":175,"qt_mat_eja_fund":175,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA NUCLEO LIRA CAMILLA PETRY","municipio":"Seara","latitude":-27.15747034,"longitude":-52.32130323,"qt_mat_eja":64,"qt_mat_eja_fund":64,"qt_mat_eja_med":0}
+,{"escola":"EB MUN WALDEMAR DA COSTA","municipio":"São Francisco do Sul","latitude":-26.2602987,"longitude":-48.633077,"qt_mat_eja":59,"qt_mat_eja_fund":59,"qt_mat_eja_med":0}
+,{"escola":"SESI SC - CRICIUMA II","municipio":"Criciúma","latitude":-28.6882863,"longitude":-49.3666943,"qt_mat_eja":564,"qt_mat_eja_fund":84,"qt_mat_eja_med":480}
+,{"escola":"EMEB GOVERNADOR PEDRO IVO CAMPOS","municipio":"Santa Rosa do Sul","latitude":-29.13873238,"longitude":-49.70893788,"qt_mat_eja":54,"qt_mat_eja_fund":26,"qt_mat_eja_med":28}
+,{"escola":"SESC LER TIJUCAS","municipio":"Tijucas","latitude":-27.23790367,"longitude":-48.6144877,"qt_mat_eja":21,"qt_mat_eja_fund":21,"qt_mat_eja_med":0}
+,{"escola":"EB MUN PROFª MARIA IVONE MULLER DOS SANTOS","municipio":"Navegantes","latitude":-26.8803326,"longitude":-48.6613641,"qt_mat_eja":84,"qt_mat_eja_fund":84,"qt_mat_eja_med":0}
+,{"escola":"EMEB HILDA GRANEMANN DE SOUSA","municipio":"Caçador","latitude":-26.79678409,"longitude":-50.98772728,"qt_mat_eja":300,"qt_mat_eja_fund":300,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE IBIRAMA","municipio":"Ibirama","latitude":-27.05781621,"longitude":-49.5159456,"qt_mat_eja":134,"qt_mat_eja_fund":86,"qt_mat_eja_med":48}
+,{"escola":"UD DE SALETE","municipio":"Salete","latitude":-26.9817275,"longitude":-50.01090612,"qt_mat_eja":30,"qt_mat_eja_fund":23,"qt_mat_eja_med":7}
+,{"escola":"UD DE POUSO REDONDO","municipio":"Pouso Redondo","latitude":-27.27169167,"longitude":-49.94243167,"qt_mat_eja":44,"qt_mat_eja_fund":29,"qt_mat_eja_med":15}
+,{"escola":"CEJA DE RIO DO SUL","municipio":"Rio do Sul","latitude":-27.2220327,"longitude":-49.6476226,"qt_mat_eja":236,"qt_mat_eja_fund":156,"qt_mat_eja_med":80}
+,{"escola":"UD DE ITA","municipio":"Itá","latitude":-27.27778791,"longitude":-52.33119648,"qt_mat_eja":39,"qt_mat_eja_fund":30,"qt_mat_eja_med":9}
+,{"escola":"UD DE CATANDUVAS","municipio":"Catanduvas","latitude":-27.073032,"longitude":-51.66066612,"qt_mat_eja":58,"qt_mat_eja_fund":36,"qt_mat_eja_med":22}
+,{"escola":"CEJA DE CAMPOS NOVOS","municipio":"Campos Novos","latitude":-27.39754726,"longitude":-51.22967217,"qt_mat_eja":230,"qt_mat_eja_fund":150,"qt_mat_eja_med":80}
+,{"escola":"UD DE AGUA DOCE","municipio":"Água Doce","latitude":-26.99920272,"longitude":-51.55460828,"qt_mat_eja":16,"qt_mat_eja_fund":0,"qt_mat_eja_med":16}
+,{"escola":"CEJA DE BRUSQUE","municipio":"Brusque","latitude":-27.0992885,"longitude":-48.9162512,"qt_mat_eja":356,"qt_mat_eja_fund":179,"qt_mat_eja_med":177}
+,{"escola":"UD DE JACINTO MACHADO","municipio":"Jacinto Machado","latitude":-28.99992795,"longitude":-49.75966933,"qt_mat_eja":27,"qt_mat_eja_fund":16,"qt_mat_eja_med":11}
+,{"escola":"UD DE PINHALZINHO","municipio":"Pinhalzinho","latitude":-26.85012713,"longitude":-52.98386824,"qt_mat_eja":83,"qt_mat_eja_fund":58,"qt_mat_eja_med":25}
+,{"escola":"CEJA DE QUILOMBO","municipio":"Quilombo","latitude":-26.7236872,"longitude":-52.7201519,"qt_mat_eja":74,"qt_mat_eja_fund":47,"qt_mat_eja_med":27}
+,{"escola":"CEJA DE PALMITOS","municipio":"Palmitos","latitude":-27.066879,"longitude":-53.1521713,"qt_mat_eja":42,"qt_mat_eja_fund":28,"qt_mat_eja_med":14}
+,{"escola":"CEJA DE SAO MIGUEL D OESTE","municipio":"São Miguel do Oeste","latitude":-26.737656,"longitude":-53.5184542,"qt_mat_eja":126,"qt_mat_eja_fund":89,"qt_mat_eja_med":37}
+,{"escola":"UD DE MONTE CASTELO","municipio":"Monte Castelo","latitude":-26.45407125,"longitude":-50.23660641,"qt_mat_eja":21,"qt_mat_eja_fund":10,"qt_mat_eja_med":11}
+,{"escola":"UD DE SAO JOSE DO CEDRO","municipio":"São José do Cedro","latitude":-26.456095,"longitude":-53.50203167,"qt_mat_eja":25,"qt_mat_eja_fund":12,"qt_mat_eja_med":13}
+,{"escola":"UD DE GUARACIABA","municipio":"Guaraciaba","latitude":-26.5996339,"longitude":-53.5214516,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"COORD DE ED DE JOVENS E ADULTOS","municipio":"Florianópolis","latitude":-27.58979,"longitude":-48.54515,"qt_mat_eja":619,"qt_mat_eja_fund":619,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE LAGUNA","municipio":"Laguna","latitude":-28.47083443,"longitude":-48.77793188,"qt_mat_eja":320,"qt_mat_eja_fund":135,"qt_mat_eja_med":185}
+,{"escola":"CAIC-PROF FEBRONIO TANCREDO DE OLIVEIRA - FUNDAMENTAL","municipio":"Palhoça","latitude":-27.63370545,"longitude":-48.67182619,"qt_mat_eja":78,"qt_mat_eja_fund":78,"qt_mat_eja_med":0}
+,{"escola":"UD DE URUSSANGA","municipio":"Urussanga","latitude":-28.5153067,"longitude":-49.3184669,"qt_mat_eja":68,"qt_mat_eja_fund":37,"qt_mat_eja_med":31}
+,{"escola":"UD DE LAURO MULLER","municipio":"Lauro Müller","latitude":-28.4052182,"longitude":-49.4037952,"qt_mat_eja":48,"qt_mat_eja_fund":13,"qt_mat_eja_med":35}
+,{"escola":"UD DE MORRO DA FUMACA","municipio":"Morro da Fumaça","latitude":-28.65396458,"longitude":-49.21300372,"qt_mat_eja":52,"qt_mat_eja_fund":40,"qt_mat_eja_med":12}
+,{"escola":"UD DE ICARA","municipio":"Içara","latitude":-28.7134583,"longitude":-49.29016566,"qt_mat_eja":132,"qt_mat_eja_fund":64,"qt_mat_eja_med":68}
+,{"escola":"CEJA DE VIDEIRA","municipio":"Videira","latitude":-27.00688982,"longitude":-51.15206229,"qt_mat_eja":263,"qt_mat_eja_fund":155,"qt_mat_eja_med":108}
+,{"escola":"UD DE FRAIBURGO","municipio":"Fraiburgo","latitude":-27.03105,"longitude":-50.9175,"qt_mat_eja":42,"qt_mat_eja_fund":0,"qt_mat_eja_med":42}
+,{"escola":"UD DE OTACILIO COSTA","municipio":"Otacílio Costa","latitude":-27.50392909,"longitude":-50.12063459,"qt_mat_eja":27,"qt_mat_eja_fund":17,"qt_mat_eja_med":10}
+,{"escola":"UD DE CORREIA PINTO","municipio":"Correia Pinto","latitude":-27.5921495,"longitude":-50.3659953,"qt_mat_eja":31,"qt_mat_eja_fund":17,"qt_mat_eja_med":14}
+,{"escola":"UD DE BOM RETIRO","municipio":"Bom Retiro","latitude":-27.79729451,"longitude":-49.49112031,"qt_mat_eja":23,"qt_mat_eja_fund":19,"qt_mat_eja_med":4}
+,{"escola":"UD DE BOM JARDIM DA SERRA","municipio":"Bom Jardim da Serra","latitude":-28.34066265,"longitude":-49.63104502,"qt_mat_eja":39,"qt_mat_eja_fund":15,"qt_mat_eja_med":24}
+,{"escola":"UD DE SAO JOSE DO CERRITO","municipio":"São José do Cerrito","latitude":-27.65823,"longitude":-50.58548,"qt_mat_eja":60,"qt_mat_eja_fund":37,"qt_mat_eja_med":23}
+,{"escola":"UD DE SAO DOMINGOS","municipio":"São Domingos","latitude":-26.56852247,"longitude":-52.53176407,"qt_mat_eja":33,"qt_mat_eja_fund":22,"qt_mat_eja_med":11}
+,{"escola":"UD DE FAXINAL DOS GUEDES","municipio":"Faxinal dos Guedes","latitude":-26.84582037,"longitude":-52.26164356,"qt_mat_eja":65,"qt_mat_eja_fund":41,"qt_mat_eja_med":24}
+,{"escola":"UD DE XAXIM","municipio":"Xaxim","latitude":-26.9612866,"longitude":-52.5344182,"qt_mat_eja":23,"qt_mat_eja_fund":0,"qt_mat_eja_med":23}
+,{"escola":"EEBI WHERA TUPA POTY DJA","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":11,"qt_mat_eja_fund":5,"qt_mat_eja_med":6}
+,{"escola":"CEJA DE JOINVILLE","municipio":"Joinville","latitude":-26.312248,"longitude":-48.8417701,"qt_mat_eja":379,"qt_mat_eja_fund":135,"qt_mat_eja_med":244}
+,{"escola":"EB MUN DE ED DE JOVENS E AD PAULO FREIRE","municipio":"Chapecó","latitude":-27.1050342,"longitude":-52.6070312,"qt_mat_eja":467,"qt_mat_eja_fund":467,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE IMBITUBA","municipio":"Imbituba","latitude":-28.238905,"longitude":-48.67016667,"qt_mat_eja":433,"qt_mat_eja_fund":231,"qt_mat_eja_med":202}
+,{"escola":"CEJA DE SAO JOAQUIM","municipio":"São Joaquim","latitude":-28.29157106,"longitude":-49.93197452,"qt_mat_eja":81,"qt_mat_eja_fund":46,"qt_mat_eja_med":35}
+,{"escola":"UD DE ITAPEMA","municipio":"Itapema","latitude":-27.12695,"longitude":-48.60854,"qt_mat_eja":129,"qt_mat_eja_fund":0,"qt_mat_eja_med":129}
+,{"escola":"PROG DE ED DE JOVENS E ADULTOS","municipio":"Salto Veloso","latitude":-26.905202,"longitude":-51.4043636,"qt_mat_eja":40,"qt_mat_eja_fund":18,"qt_mat_eja_med":22}
+,{"escola":"CENTRO EDUCACIONAL SAO CARLOS","municipio":"Chapecó","latitude":-27.13807667,"longitude":-52.59441,"qt_mat_eja":90,"qt_mat_eja_fund":21,"qt_mat_eja_med":69}
+,{"escola":"COLEGIO TECNICO DO PLANALTO","municipio":"Lages","latitude":-27.8139533,"longitude":-50.3299108,"qt_mat_eja":10,"qt_mat_eja_fund":10,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE CURITIBANOS","municipio":"Curitibanos","latitude":-27.2842367,"longitude":-50.5768075,"qt_mat_eja":182,"qt_mat_eja_fund":111,"qt_mat_eja_med":71}
+,{"escola":"ESC ESPECIAL VIDA NOVA","municipio":"Abdon Batista","latitude":null,"longitude":null,"qt_mat_eja":16,"qt_mat_eja_fund":16,"qt_mat_eja_med":0}
+,{"escola":"UD DE CAMPO ERE","municipio":"Campo Erê","latitude":-26.39282677,"longitude":-53.07320219,"qt_mat_eja":54,"qt_mat_eja_fund":44,"qt_mat_eja_med":10}
+,{"escola":"CEJAI- CENTRO DE EDUCACAO DE JOVENS E ADULTOS DE ICARA","municipio":"Içara","latitude":-28.71330715,"longitude":-49.28992914,"qt_mat_eja":16,"qt_mat_eja_fund":16,"qt_mat_eja_med":0}
+,{"escola":"LICEU CATARINENSE DE ENSINO","municipio":"Balneário Camboriú","latitude":-27.00258,"longitude":-48.63146,"qt_mat_eja":118,"qt_mat_eja_fund":26,"qt_mat_eja_med":92}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"Pomerode","latitude":-26.74261058,"longitude":-49.17677485,"qt_mat_eja":37,"qt_mat_eja_fund":9,"qt_mat_eja_med":28}
+,{"escola":"EJA EDUCACAO DE JOVENS E ADULTOS","municipio":"Gaspar","latitude":-26.93212481,"longitude":-48.9580787,"qt_mat_eja":258,"qt_mat_eja_fund":258,"qt_mat_eja_med":0}
+,{"escola":"COLEGIO DE EDUCACAO MUNICIPAL","municipio":"Siderópolis","latitude":-28.6291773,"longitude":-49.4046891,"qt_mat_eja":65,"qt_mat_eja_fund":24,"qt_mat_eja_med":41}
+,{"escola":"EIEF CACIQUE KARENH","municipio":"Abelardo Luz","latitude":-26.567355,"longitude":-52.3453643,"qt_mat_eja":9,"qt_mat_eja_fund":1,"qt_mat_eja_med":8}
+,{"escola":"EB FREI DAMIAO","municipio":"Palhoça","latitude":-27.6140224,"longitude":-48.6675161,"qt_mat_eja":119,"qt_mat_eja_fund":119,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA PROFISSIONAL DOS INGLESES","municipio":"Florianópolis","latitude":-27.43712067,"longitude":-48.39982682,"qt_mat_eja":186,"qt_mat_eja_fund":18,"qt_mat_eja_med":168}
+,{"escola":"UD DE SANTA CECILIA","municipio":"Santa Cecília","latitude":-26.9711254,"longitude":-50.42801533,"qt_mat_eja":22,"qt_mat_eja_fund":0,"qt_mat_eja_med":22}
+,{"escola":"EIEB LARANJEIRAS","municipio":"São Francisco do Sul","latitude":null,"longitude":null,"qt_mat_eja":15,"qt_mat_eja_fund":9,"qt_mat_eja_med":6}
+,{"escola":"ESCOLA BASICA MUNICIPAL OLINDA PEIXOTO","municipio":"Porto Belo","latitude":-27.15122762,"longitude":-48.59061076,"qt_mat_eja":26,"qt_mat_eja_fund":26,"qt_mat_eja_med":0}
+,{"escola":"CENTRO DE EDUCACAO DE JOVENS E ADULTOS","municipio":"Indaial","latitude":-26.8998978,"longitude":-49.23072898,"qt_mat_eja":173,"qt_mat_eja_fund":173,"qt_mat_eja_med":0}
+,{"escola":"EIEB LAKLANO","municipio":"José Boiteux","latitude":-26.895475,"longitude":-49.67529667,"qt_mat_eja":18,"qt_mat_eja_fund":11,"qt_mat_eja_med":7}
+,{"escola":"CE DE CORDEIROS","municipio":"Itajaí","latitude":-26.8878737,"longitude":-48.7014614,"qt_mat_eja":62,"qt_mat_eja_fund":62,"qt_mat_eja_med":0}
+,{"escola":"CEJA MARIA MACEDO DA SILVA","municipio":"Santo Amaro da Imperatriz","latitude":-27.68683362,"longitude":-48.78120953,"qt_mat_eja":255,"qt_mat_eja_fund":255,"qt_mat_eja_med":0}
+,{"escola":"SESI SC - CACADOR","municipio":"Caçador","latitude":-26.78850872,"longitude":-50.99546528,"qt_mat_eja":347,"qt_mat_eja_fund":0,"qt_mat_eja_med":347}
+,{"escola":"SESI SC - JOINVILLE TUPY","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":304,"qt_mat_eja_fund":14,"qt_mat_eja_med":290}
+,{"escola":"INSTITUTO DE EDUCACAO","municipio":"Passo de Torres","latitude":-29.32268918,"longitude":-49.72442251,"qt_mat_eja":57,"qt_mat_eja_fund":57,"qt_mat_eja_med":0}
+,{"escola":"UD DE RIO RUFINO","municipio":"Rio Rufino","latitude":-27.8633258,"longitude":-49.7813088,"qt_mat_eja":17,"qt_mat_eja_fund":17,"qt_mat_eja_med":0}
+,{"escola":"UD PRESIDIO REGIONAL DE CANOINHAS","municipio":"Canoinhas","latitude":-26.20615682,"longitude":-50.4208388,"qt_mat_eja":44,"qt_mat_eja_fund":20,"qt_mat_eja_med":24}
+,{"escola":"UD PENITENCIARIA AGRICOLA DE CHAPECO","municipio":"Chapecó","latitude":-27.1131027,"longitude":-52.6789387,"qt_mat_eja":256,"qt_mat_eja_fund":120,"qt_mat_eja_med":136}
+,{"escola":"UD DE GUARAMIRIM","municipio":"Guaramirim","latitude":-26.4745691,"longitude":-49.0028054,"qt_mat_eja":162,"qt_mat_eja_fund":106,"qt_mat_eja_med":56}
+,{"escola":"UD DE CORUPA","municipio":"Corupá","latitude":-26.42704,"longitude":-49.2446301,"qt_mat_eja":75,"qt_mat_eja_fund":47,"qt_mat_eja_med":28}
+,{"escola":"UD DE AURORA","municipio":"Aurora","latitude":-27.31544644,"longitude":-49.63780888,"qt_mat_eja":13,"qt_mat_eja_fund":12,"qt_mat_eja_med":1}
+,{"escola":"UD BARRA DO SUL","municipio":"Balneário Barra do Sul","latitude":null,"longitude":null,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"UD PENITENCIARIA IND JUCEMAR CESCONETTO JLLE","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":122,"qt_mat_eja_fund":68,"qt_mat_eja_med":54}
+,{"escola":"UD DE PORTO BELO","municipio":"Porto Belo","latitude":-27.15917798,"longitude":-48.56246488,"qt_mat_eja":28,"qt_mat_eja_fund":0,"qt_mat_eja_med":28}
+,{"escola":"UD DE GALVAO","municipio":"Galvão","latitude":-26.45166172,"longitude":-52.69032619,"qt_mat_eja":3,"qt_mat_eja_fund":0,"qt_mat_eja_med":3}
+,{"escola":"UD DE RIO FORTUNA","municipio":"Rio Fortuna","latitude":-28.13330771,"longitude":-49.10287475,"qt_mat_eja":19,"qt_mat_eja_fund":15,"qt_mat_eja_med":4}
+,{"escola":"UD DE SAO LUDGERO","municipio":"São Ludgero","latitude":-28.3272211,"longitude":-49.1760201,"qt_mat_eja":51,"qt_mat_eja_fund":32,"qt_mat_eja_med":19}
+,{"escola":"UD DE ARMAZEM","municipio":"Armazém","latitude":-28.26157367,"longitude":-49.01532797,"qt_mat_eja":43,"qt_mat_eja_fund":26,"qt_mat_eja_med":17}
+,{"escola":"UD PRESIDIO REGIONAL DE MAFRA","municipio":"Mafra","latitude":-26.11166667,"longitude":-49.81039,"qt_mat_eja":80,"qt_mat_eja_fund":34,"qt_mat_eja_med":46}
+,{"escola":"UD DE PRINCESA","municipio":"Princesa","latitude":-26.4433757,"longitude":-53.5983681,"qt_mat_eja":26,"qt_mat_eja_fund":14,"qt_mat_eja_med":12}
+,{"escola":"UD DE POMERODE","municipio":"Pomerode","latitude":-26.7369115,"longitude":-49.1774711,"qt_mat_eja":50,"qt_mat_eja_fund":29,"qt_mat_eja_med":21}
+,{"escola":"UD DE GASPAR","municipio":"Gaspar","latitude":-26.92754301,"longitude":-48.96573765,"qt_mat_eja":75,"qt_mat_eja_fund":0,"qt_mat_eja_med":75}
+,{"escola":"UD DE PERITIBA","municipio":"Peritiba","latitude":-27.37209837,"longitude":-51.90383535,"qt_mat_eja":8,"qt_mat_eja_fund":0,"qt_mat_eja_med":8}
+,{"escola":"UD DE PAULO LOPES","municipio":"Paulo Lopes","latitude":null,"longitude":null,"qt_mat_eja":33,"qt_mat_eja_fund":33,"qt_mat_eja_med":0}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE IMBITUBA","municipio":"Imbituba","latitude":-28.2197344,"longitude":-48.6700918,"qt_mat_eja":46,"qt_mat_eja_fund":16,"qt_mat_eja_med":30}
+,{"escola":"UD DE IMARUI","municipio":"Imaruí","latitude":null,"longitude":null,"qt_mat_eja":18,"qt_mat_eja_fund":0,"qt_mat_eja_med":18}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE LAGUNA","municipio":"Laguna","latitude":-28.47675163,"longitude":-48.78431439,"qt_mat_eja":8,"qt_mat_eja_fund":1,"qt_mat_eja_med":7}
+,{"escola":"UD COMPLEXO PENIT DE SAO PEDRO DE ALCANTARA","municipio":"São Pedro de Alcântara","latitude":null,"longitude":null,"qt_mat_eja":69,"qt_mat_eja_fund":15,"qt_mat_eja_med":54}
+,{"escola":"UD DE BIGUACU","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":44,"qt_mat_eja_fund":0,"qt_mat_eja_med":44}
+,{"escola":"UD DE GOVERNADOR CELSO RAMOS","municipio":"Governador Celso Ramos","latitude":null,"longitude":null,"qt_mat_eja":9,"qt_mat_eja_fund":2,"qt_mat_eja_med":7}
+,{"escola":"UD COLONIA PENAL AGRICOLA DE PALHOCA","municipio":"Palhoça","latitude":null,"longitude":null,"qt_mat_eja":169,"qt_mat_eja_fund":90,"qt_mat_eja_med":79}
+,{"escola":"UD DE PALHOCA","municipio":"Palhoça","latitude":null,"longitude":null,"qt_mat_eja":231,"qt_mat_eja_fund":9,"qt_mat_eja_med":222}
+,{"escola":"UD DE CAPIVARI DE BAIXO","municipio":"Capivari de Baixo","latitude":-28.44204365,"longitude":-48.95470718,"qt_mat_eja":62,"qt_mat_eja_fund":43,"qt_mat_eja_med":19}
+,{"escola":"UD DE GRAVATAL","municipio":"Gravatal","latitude":-28.33008599,"longitude":-49.03537594,"qt_mat_eja":36,"qt_mat_eja_fund":18,"qt_mat_eja_med":18}
+,{"escola":"UD DE TREZE DE MAIO","municipio":"Treze de Maio","latitude":-28.55932252,"longitude":-49.14153536,"qt_mat_eja":30,"qt_mat_eja_fund":23,"qt_mat_eja_med":7}
+,{"escola":"UD DE IPORA DO OESTE","municipio":"Iporã do Oeste","latitude":-26.99042,"longitude":-53.53514,"qt_mat_eja":23,"qt_mat_eja_fund":19,"qt_mat_eja_med":4}
+,{"escola":"UD DE RIQUEZA","municipio":"Riqueza","latitude":-27.069437,"longitude":-53.32720088,"qt_mat_eja":22,"qt_mat_eja_fund":7,"qt_mat_eja_med":15}
+,{"escola":"SESC SERVICO SOCIAL DO COMERCIO","municipio":"Florianópolis","latitude":-27.60231,"longitude":-48.54683,"qt_mat_eja":62,"qt_mat_eja_fund":0,"qt_mat_eja_med":62}
+,{"escola":"EBM PROFª ADELAIDE STARKE","municipio":"Blumenau","latitude":-26.8883032,"longitude":-49.0665374,"qt_mat_eja":138,"qt_mat_eja_fund":138,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL DOM JAIME DE BARROS CAMARA","municipio":"Joinville","latitude":-26.27674,"longitude":-48.80399,"qt_mat_eja":35,"qt_mat_eja_fund":35,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL PROFESSORA LAURA ANDRADE","municipio":"Joinville","latitude":-26.26272,"longitude":-48.81301,"qt_mat_eja":94,"qt_mat_eja_fund":94,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL VALENTIM JOAO DA ROCHA","municipio":"Joinville","latitude":-26.28712,"longitude":-48.90318,"qt_mat_eja":57,"qt_mat_eja_fund":57,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL JOAO DE OLIVEIRA","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":33,"qt_mat_eja_fund":33,"qt_mat_eja_med":0}
+,{"escola":"IFC - CAMPUS SAO FRANCISCO DO SUL","municipio":"São Francisco do Sul","latitude":-26.2177982,"longitude":-48.5702874,"qt_mat_eja":24,"qt_mat_eja_fund":0,"qt_mat_eja_med":24}
+,{"escola":"CEJA DE TIMBO","municipio":"Timbó","latitude":-26.8256174,"longitude":-49.2696485,"qt_mat_eja":118,"qt_mat_eja_fund":66,"qt_mat_eja_med":52}
+,{"escola":"ESCOLA MUNICIPAL ADOLPHO BARTSCH","municipio":"Joinville","latitude":-26.21485,"longitude":-48.90082,"qt_mat_eja":26,"qt_mat_eja_fund":26,"qt_mat_eja_med":0}
+,{"escola":"EMEB SANTA HELENA","municipio":"Lages","latitude":-27.82386852,"longitude":-50.34260277,"qt_mat_eja":19,"qt_mat_eja_fund":19,"qt_mat_eja_med":0}
+,{"escola":"COLEGIO PROFISSIONAL JUCELINO KUBITSCHEK DE OLIVEIRA","municipio":"Curitibanos","latitude":-27.28941786,"longitude":-50.57483813,"qt_mat_eja":54,"qt_mat_eja_fund":0,"qt_mat_eja_med":54}
+,{"escola":"EIEF FEN NO","municipio":"Chapecó","latitude":-27.13075833,"longitude":-52.53940333,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"EB MUN DIOGO ALVES DA SILVA","municipio":"Chapecó","latitude":-27.0993049,"longitude":-52.6704064,"qt_mat_eja":59,"qt_mat_eja_fund":59,"qt_mat_eja_med":0}
+,{"escola":"EIEB SAPE TY KO","municipio":"Chapecó","latitude":-27.2046398,"longitude":-52.5620237,"qt_mat_eja":9,"qt_mat_eja_fund":0,"qt_mat_eja_med":9}
+,{"escola":"IFSC - CAMPUS PALHOCA BILINGUE","municipio":"Palhoça","latitude":-27.63008,"longitude":-48.6889,"qt_mat_eja":32,"qt_mat_eja_fund":0,"qt_mat_eja_med":32}
+,{"escola":"IFSC - CAMPUS CACADOR","municipio":"Caçador","latitude":-26.77955288,"longitude":-51.03936848,"qt_mat_eja":5,"qt_mat_eja_fund":0,"qt_mat_eja_med":5}
+,{"escola":"EB ANIBAL CESAR","municipio":"Itajaí","latitude":-26.9021763,"longitude":-48.6880848,"qt_mat_eja":107,"qt_mat_eja_fund":107,"qt_mat_eja_med":0}
+,{"escola":"EB GASPAR DA COSTA MORAES","municipio":"Itajaí","latitude":-26.9247629,"longitude":-48.6498632,"qt_mat_eja":35,"qt_mat_eja_fund":35,"qt_mat_eja_med":0}
+,{"escola":"EB PROFª THEREZA BEZERRA DE ATHAYDE","municipio":"Itajaí","latitude":-26.8882971,"longitude":-48.7352621,"qt_mat_eja":67,"qt_mat_eja_fund":67,"qt_mat_eja_med":0}
+,{"escola":"EB MUN ANTONIO PAGLIA","municipio":"Ponte Serrada","latitude":-26.8759169,"longitude":-52.0193528,"qt_mat_eja":23,"qt_mat_eja_fund":23,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA BASICA MUNICIPAL BARRA MANSA","municipio":"Canoinhas","latitude":-26.4316934,"longitude":-50.6636526,"qt_mat_eja":6,"qt_mat_eja_fund":6,"qt_mat_eja_med":0}
+,{"escola":"EBM GUITA FEDERMANN","municipio":"Três Barras","latitude":-26.11849,"longitude":-50.30511,"qt_mat_eja":18,"qt_mat_eja_fund":18,"qt_mat_eja_med":0}
+,{"escola":"EBM DR AROLDO CARNEIRO DE CARVALHO","municipio":"Canoinhas","latitude":-26.16438459,"longitude":-50.4018633,"qt_mat_eja":8,"qt_mat_eja_fund":8,"qt_mat_eja_med":0}
+,{"escola":"EEF MUNICIPAL PREFEITO PORTINHO BITTENCOURT","municipio":"Imaruí","latitude":-28.3405,"longitude":-48.81943,"qt_mat_eja":9,"qt_mat_eja_fund":9,"qt_mat_eja_med":0}
+,{"escola":"EB MUN DR ROGERIO ZATTAR","municipio":"São Francisco do Sul","latitude":-26.2056615,"longitude":-48.5396162,"qt_mat_eja":62,"qt_mat_eja_fund":62,"qt_mat_eja_med":0}
+,{"escola":"CENTRO EDUC PROFª MARIA DE LOURDES C CABRAL","municipio":"Navegantes","latitude":-26.8710424,"longitude":-48.6827898,"qt_mat_eja":150,"qt_mat_eja_fund":150,"qt_mat_eja_med":0}
+,{"escola":"EMEB ALINE GIOVANA SCHMITT","municipio":"Lages","latitude":-27.78825833,"longitude":-50.292935,"qt_mat_eja":43,"qt_mat_eja_fund":26,"qt_mat_eja_med":17}
+,{"escola":"IFSC - CAMPUS SAO JOSE","municipio":"São José","latitude":-27.60867576,"longitude":-48.63353649,"qt_mat_eja":134,"qt_mat_eja_fund":0,"qt_mat_eja_med":134}
+,{"escola":"SESI SC - RIO DO SUL","municipio":"Rio do Sul","latitude":-27.20374842,"longitude":-49.62901946,"qt_mat_eja":131,"qt_mat_eja_fund":0,"qt_mat_eja_med":131}
+,{"escola":"COLEGIO MUN MARIA LUIZA DE MELO","municipio":"São José","latitude":-27.5950619,"longitude":-48.6158039,"qt_mat_eja":50,"qt_mat_eja_fund":50,"qt_mat_eja_med":0}
+,{"escola":"EBM PROF ARTHUR WIPPEL","municipio":"Guabiruba","latitude":-27.08169222,"longitude":-48.98971603,"qt_mat_eja":136,"qt_mat_eja_fund":70,"qt_mat_eja_med":66}
+,{"escola":"SESI SC - JOACABA","municipio":"Joaçaba","latitude":-27.17155575,"longitude":-51.51067631,"qt_mat_eja":120,"qt_mat_eja_fund":0,"qt_mat_eja_med":120}
+,{"escola":"SESI SC - SEARA II","municipio":"Seara","latitude":-27.15739326,"longitude":-52.31486183,"qt_mat_eja":64,"qt_mat_eja_fund":0,"qt_mat_eja_med":64}
+,{"escola":"IFSC - CAMPUS GAROPABA","municipio":"Garopaba","latitude":-28.09875245,"longitude":-48.67495417,"qt_mat_eja":15,"qt_mat_eja_fund":0,"qt_mat_eja_med":15}
+,{"escola":"CURSO DE EDUCACAO DE JOVENS E ADULTOS EJA","municipio":"Irineópolis","latitude":-26.24052667,"longitude":-50.792145,"qt_mat_eja":4,"qt_mat_eja_fund":4,"qt_mat_eja_med":0}
+,{"escola":"EMEB JARDIM ATLANTICO","municipio":"Balneário Arroio do Silva","latitude":-28.998155,"longitude":-49.42549833,"qt_mat_eja":138,"qt_mat_eja_fund":76,"qt_mat_eja_med":62}
+,{"escola":"EM VICENTE VIEIRA","municipio":"Garuva","latitude":-26.0359,"longitude":-48.85233,"qt_mat_eja":22,"qt_mat_eja_fund":22,"qt_mat_eja_med":0}
+,{"escola":"UD DE ITAIOPOLIS","municipio":"Itaiópolis","latitude":-26.33595089,"longitude":-49.90465501,"qt_mat_eja":79,"qt_mat_eja_fund":66,"qt_mat_eja_med":13}
+,{"escola":"CEJA DE MAFRA","municipio":"Mafra","latitude":-26.1148,"longitude":-49.80558,"qt_mat_eja":119,"qt_mat_eja_fund":70,"qt_mat_eja_med":49}
+,{"escola":"CENTRO INTEGRADO DE ENSINO FUNDAMENTAL PROFª MIRIAN GENY FRIEDRICHSEN","municipio":"Balneário Piçarras","latitude":-26.77338861,"longitude":-48.66520509,"qt_mat_eja":154,"qt_mat_eja_fund":101,"qt_mat_eja_med":53}
+,{"escola":"CEJA DE JOACABA","municipio":"Joaçaba","latitude":-27.17612,"longitude":-51.50403,"qt_mat_eja":263,"qt_mat_eja_fund":171,"qt_mat_eja_med":92}
+,{"escola":"CEJA DE TUBARAO","municipio":"Tubarão","latitude":-28.4839819,"longitude":-49.0086766,"qt_mat_eja":307,"qt_mat_eja_fund":196,"qt_mat_eja_med":111}
+,{"escola":"CEJA DE BRACO DO NORTE","municipio":"Braço do Norte","latitude":-28.283005,"longitude":-49.1640472,"qt_mat_eja":168,"qt_mat_eja_fund":110,"qt_mat_eja_med":58}
+,{"escola":"EB MUN PROFª DALCY AVILA DE SOUZA","municipio":"Jaguaruna","latitude":-28.6247739,"longitude":-49.0157535,"qt_mat_eja":34,"qt_mat_eja_fund":34,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE CACADOR","municipio":"Caçador","latitude":-26.7694983,"longitude":-51.0194462,"qt_mat_eja":134,"qt_mat_eja_fund":88,"qt_mat_eja_med":46}
+,{"escola":"UD DE IRANI","municipio":"Irani","latitude":-27.0222864,"longitude":-51.8919531,"qt_mat_eja":53,"qt_mat_eja_fund":32,"qt_mat_eja_med":21}
+,{"escola":"CEJA DE SAO BENTO DO SUL","municipio":"São Bento do Sul","latitude":-26.24817,"longitude":-49.45615,"qt_mat_eja":38,"qt_mat_eja_fund":16,"qt_mat_eja_med":22}
+,{"escola":"CEJA DE SAO LOURENCO DO OESTE","municipio":"São Lourenço do Oeste","latitude":-26.35972032,"longitude":-52.85286594,"qt_mat_eja":107,"qt_mat_eja_fund":73,"qt_mat_eja_med":34}
+,{"escola":"CEJA DE ARARANGUA","municipio":"Araranguá","latitude":-28.9247107,"longitude":-49.4798306,"qt_mat_eja":103,"qt_mat_eja_fund":0,"qt_mat_eja_med":103}
+,{"escola":"UD COMPLEXO PENITENCIARIO DE FLORIANOPOLIS","municipio":"Florianópolis","latitude":-27.57873532,"longitude":-48.52630103,"qt_mat_eja":97,"qt_mat_eja_fund":52,"qt_mat_eja_med":45}
+,{"escola":"UD DE LAURENTINO","municipio":"Laurentino","latitude":-27.2232731,"longitude":-49.7337192,"qt_mat_eja":23,"qt_mat_eja_fund":17,"qt_mat_eja_med":6}
+,{"escola":"UD DE NAVEGANTES","municipio":"Navegantes","latitude":-26.88883,"longitude":-48.65977,"qt_mat_eja":190,"qt_mat_eja_fund":87,"qt_mat_eja_med":103}
+,{"escola":"CEJA DE ITAPIRANGA","municipio":"Itapiranga","latitude":-27.1717016,"longitude":-53.7124293,"qt_mat_eja":39,"qt_mat_eja_fund":28,"qt_mat_eja_med":11}
+,{"escola":"CEJA DE CANOINHAS","municipio":"Canoinhas","latitude":-26.1824498,"longitude":-50.3894532,"qt_mat_eja":92,"qt_mat_eja_fund":22,"qt_mat_eja_med":70}
+,{"escola":"UD DE PRAIA GRANDE","municipio":"Praia Grande","latitude":-29.18752839,"longitude":-49.94686603,"qt_mat_eja":36,"qt_mat_eja_fund":17,"qt_mat_eja_med":19}
+,{"escola":"CEJA DE FLORIANOPOLIS","municipio":"Florianópolis","latitude":-27.59769487,"longitude":-48.54658228,"qt_mat_eja":728,"qt_mat_eja_fund":107,"qt_mat_eja_med":621}
+,{"escola":"CEJA DE CONCORDIA","municipio":"Concórdia","latitude":-27.23403503,"longitude":-52.02319278,"qt_mat_eja":279,"qt_mat_eja_fund":193,"qt_mat_eja_med":86}
+,{"escola":"CEJA DE CRICIUMA","municipio":"Criciúma","latitude":-28.6908728,"longitude":-49.38837399,"qt_mat_eja":215,"qt_mat_eja_fund":33,"qt_mat_eja_med":182}
+,{"escola":"CEJA DE ITUPORANGA","municipio":"Ituporanga","latitude":-27.4082102,"longitude":-49.6056364,"qt_mat_eja":233,"qt_mat_eja_fund":140,"qt_mat_eja_med":93}
+,{"escola":"UD DE IMBUIA","municipio":"Imbuia","latitude":-27.4937033,"longitude":-49.4235904,"qt_mat_eja":24,"qt_mat_eja_fund":9,"qt_mat_eja_med":15}
+,{"escola":"CEJA DEPUTADO DOUTEL DE ANDRADE","municipio":"Balneário Camboriú","latitude":-27.002469,"longitude":-48.6314875,"qt_mat_eja":269,"qt_mat_eja_fund":269,"qt_mat_eja_med":0}
+,{"escola":"UD DE CAMBORIU","municipio":"Camboriú","latitude":-27.0370086,"longitude":-48.6470642,"qt_mat_eja":102,"qt_mat_eja_fund":0,"qt_mat_eja_med":102}
+,{"escola":"UD DE LUIZ ALVES","municipio":"Luiz Alves","latitude":-26.7250179,"longitude":-48.930966,"qt_mat_eja":71,"qt_mat_eja_fund":52,"qt_mat_eja_med":19}
+,{"escola":"CEJA DE ITAJAI","municipio":"Itajaí","latitude":-26.9158398,"longitude":-48.6659089,"qt_mat_eja":321,"qt_mat_eja_fund":131,"qt_mat_eja_med":190}
+,{"escola":"UD DE ILHOTA","municipio":"Ilhota","latitude":-26.9042218,"longitude":-48.8301876,"qt_mat_eja":41,"qt_mat_eja_fund":24,"qt_mat_eja_med":17}
+,{"escola":"CEJA DE LAGES","municipio":"Lages","latitude":-27.81241809,"longitude":-50.32518662,"qt_mat_eja":493,"qt_mat_eja_fund":271,"qt_mat_eja_med":222}
+,{"escola":"CEJA DE XANXERE","municipio":"Xanxerê","latitude":-26.87675967,"longitude":-52.40369578,"qt_mat_eja":243,"qt_mat_eja_fund":181,"qt_mat_eja_med":62}
+,{"escola":"CEJA DE JARAGUA DO SUL","municipio":"Jaraguá do Sul","latitude":-26.4954994,"longitude":-49.0891904,"qt_mat_eja":425,"qt_mat_eja_fund":241,"qt_mat_eja_med":184}
+,{"escola":"UD DE CAPINZAL","municipio":"Capinzal","latitude":-27.34786166,"longitude":-51.60733676,"qt_mat_eja":96,"qt_mat_eja_fund":68,"qt_mat_eja_med":28}
+,{"escola":"UD DE PONTE ALTA","municipio":"Ponte Alta","latitude":-27.4854755,"longitude":-50.37908544,"qt_mat_eja":25,"qt_mat_eja_fund":12,"qt_mat_eja_med":13}
+,{"escola":"UD DE TREZE TILIAS","municipio":"Treze Tílias","latitude":-27.00108431,"longitude":-51.40433393,"qt_mat_eja":32,"qt_mat_eja_fund":20,"qt_mat_eja_med":12}
+,{"escola":"CEJA DE CHAPECO","municipio":"Chapecó","latitude":-27.10307258,"longitude":-52.60454527,"qt_mat_eja":162,"qt_mat_eja_fund":17,"qt_mat_eja_med":145}
+,{"escola":"UD DE INDAIAL","municipio":"Indaial","latitude":-26.87636113,"longitude":-49.25511195,"qt_mat_eja":14,"qt_mat_eja_fund":0,"qt_mat_eja_med":14}
+,{"escola":"UD DE APIUNA","municipio":"Apiúna","latitude":-27.03785497,"longitude":-49.38937987,"qt_mat_eja":52,"qt_mat_eja_fund":29,"qt_mat_eja_med":23}
+,{"escola":"CEJA DE BLUMENAU","municipio":"Blumenau","latitude":-26.89744262,"longitude":-49.08101213,"qt_mat_eja":312,"qt_mat_eja_fund":92,"qt_mat_eja_med":220}
+,{"escola":"UD DE DOUTOR PEDRINHO","municipio":"Doutor Pedrinho","latitude":-26.7173247,"longitude":-49.48304881,"qt_mat_eja":23,"qt_mat_eja_fund":17,"qt_mat_eja_med":6}
+,{"escola":"UD DE TIJUCAS","municipio":"Tijucas","latitude":-27.23112,"longitude":-48.63345,"qt_mat_eja":268,"qt_mat_eja_fund":176,"qt_mat_eja_med":92}
+,{"escola":"CEJA DE MARAVILHA","municipio":"Maravilha","latitude":-26.76210818,"longitude":-53.17924826,"qt_mat_eja":166,"qt_mat_eja_fund":135,"qt_mat_eja_med":31}
+,{"escola":"EJA -EDUCACAO DE JOVENS E ADULTOS MARIA ALICE DAL PONT","municipio":"Turvo","latitude":-28.9274636,"longitude":-49.6797836,"qt_mat_eja":94,"qt_mat_eja_fund":54,"qt_mat_eja_med":40}
+,{"escola":"UD DE SOMBRIO","municipio":"Sombrio","latitude":-29.1115195,"longitude":-49.6405,"qt_mat_eja":102,"qt_mat_eja_fund":67,"qt_mat_eja_med":35}
+,{"escola":"ESCOLA MUNICIPAL MANOEL DE SOUZA - EJA","municipio":"Balneário Barra do Sul","latitude":-26.4589649,"longitude":-48.6108464,"qt_mat_eja":95,"qt_mat_eja_fund":95,"qt_mat_eja_med":0}
+,{"escola":"UD DE URUBICI","municipio":"Urubici","latitude":-28.01540861,"longitude":-49.59558161,"qt_mat_eja":33,"qt_mat_eja_fund":16,"qt_mat_eja_med":17}
+,{"escola":"UD DE PONTE SERRADA","municipio":"Ponte Serrada","latitude":-26.8741209,"longitude":-52.0102614,"qt_mat_eja":86,"qt_mat_eja_fund":77,"qt_mat_eja_med":9}
+,{"escola":"UD DE ABELARDO LUZ","municipio":"Abelardo Luz","latitude":-26.56814666,"longitude":-52.32447634,"qt_mat_eja":42,"qt_mat_eja_fund":28,"qt_mat_eja_med":14}
+,{"escola":"UD DE LEBON REGIS","municipio":"Lebon Régis","latitude":-26.93187594,"longitude":-50.68738494,"qt_mat_eja":30,"qt_mat_eja_fund":15,"qt_mat_eja_med":15}
+,{"escola":"UD DE BARRA VELHA","municipio":"Barra Velha","latitude":null,"longitude":null,"qt_mat_eja":154,"qt_mat_eja_fund":100,"qt_mat_eja_med":54}
+,{"escola":"EBM ANITA BERNARDES GANANCINI","municipio":"Camboriú","latitude":-27.0029181,"longitude":-48.6620123,"qt_mat_eja":228,"qt_mat_eja_fund":228,"qt_mat_eja_med":0}
+,{"escola":"EMEJA PROF ALBERTO TOMELIN","municipio":"Rio Negrinho","latitude":-26.25182676,"longitude":-49.52547926,"qt_mat_eja":75,"qt_mat_eja_fund":75,"qt_mat_eja_med":0}
+,{"escola":"CEM ANTONIO FRANCISCO MACHADO","municipio":"São José","latitude":-27.59882305,"longitude":-48.64985338,"qt_mat_eja":100,"qt_mat_eja_fund":100,"qt_mat_eja_med":0}
+,{"escola":"CEM ARAUCARIA","municipio":"São José","latitude":-27.53953303,"longitude":-48.63557663,"qt_mat_eja":83,"qt_mat_eja_fund":83,"qt_mat_eja_med":0}
+,{"escola":"EB REINALDO WEINGARTNER","municipio":"Palhoça","latitude":-27.6642518,"longitude":-48.660249,"qt_mat_eja":110,"qt_mat_eja_fund":110,"qt_mat_eja_med":0}
+,{"escola":"UD DE GAROPABA","municipio":"Garopaba","latitude":-28.03524833,"longitude":-48.62551,"qt_mat_eja":65,"qt_mat_eja_fund":43,"qt_mat_eja_med":22}
+,{"escola":"DELLASUL - CURSOS E COLEGIO","municipio":"Tubarão","latitude":-28.48334284,"longitude":-49.00650727,"qt_mat_eja":252,"qt_mat_eja_fund":79,"qt_mat_eja_med":173}
+,{"escola":"UD DE MODELO","municipio":"Modelo","latitude":-26.77688157,"longitude":-53.05361582,"qt_mat_eja":45,"qt_mat_eja_fund":37,"qt_mat_eja_med":8}
+,{"escola":"COLEGIO SAO FRANCISCO DE SALES LTDA","municipio":"Caçador","latitude":-26.78039534,"longitude":-51.02418269,"qt_mat_eja":54,"qt_mat_eja_fund":6,"qt_mat_eja_med":48}
+,{"escola":"UD DE SANTA TEREZINHA","municipio":"Santa Terezinha","latitude":-26.7829978,"longitude":-50.0041093,"qt_mat_eja":31,"qt_mat_eja_fund":12,"qt_mat_eja_med":19}
+,{"escola":"UD DE RIO DO CAMPO","municipio":"Rio do Campo","latitude":-26.94549785,"longitude":-50.14124012,"qt_mat_eja":18,"qt_mat_eja_fund":14,"qt_mat_eja_med":4}
+,{"escola":"CEJA DE TAIO","municipio":"Taió","latitude":-27.11762375,"longitude":-50.01826088,"qt_mat_eja":36,"qt_mat_eja_fund":21,"qt_mat_eja_med":15}
+,{"escola":"UD DE TROMBUDO CENTRAL","municipio":"Trombudo Central","latitude":-27.3090876,"longitude":-49.7962387,"qt_mat_eja":13,"qt_mat_eja_fund":0,"qt_mat_eja_med":13}
+,{"escola":"UD DE SAO FRANCISCO DO SUL","municipio":"São Francisco do Sul","latitude":null,"longitude":null,"qt_mat_eja":37,"qt_mat_eja_fund":0,"qt_mat_eja_med":37}
+,{"escola":"UD DE PASSO DE TORRES","municipio":"Passo de Torres","latitude":-29.32299097,"longitude":-49.72409762,"qt_mat_eja":43,"qt_mat_eja_fund":0,"qt_mat_eja_med":43}
+,{"escola":"UD DE MARACAJA","municipio":"Maracajá","latitude":-28.8624825,"longitude":-49.4468117,"qt_mat_eja":35,"qt_mat_eja_fund":16,"qt_mat_eja_med":19}
+,{"escola":"UD DE ANITA GARIBALDI","municipio":"Anita Garibaldi","latitude":-27.69277807,"longitude":-51.12928245,"qt_mat_eja":29,"qt_mat_eja_fund":12,"qt_mat_eja_med":17}
+,{"escola":"UD DE BOCAINA DO SUL","municipio":"Bocaina do Sul","latitude":-27.74171221,"longitude":-49.94585873,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"UD DE IPUMIRIM","municipio":"Ipumirim","latitude":-27.07517174,"longitude":-52.13403242,"qt_mat_eja":18,"qt_mat_eja_fund":13,"qt_mat_eja_med":5}
+,{"escola":"UD DE PIRATUBA","municipio":"Piratuba","latitude":-27.42260176,"longitude":-51.77742318,"qt_mat_eja":23,"qt_mat_eja_fund":16,"qt_mat_eja_med":7}
+,{"escola":"UD DE XAVANTINA","municipio":"Xavantina","latitude":-27.07014573,"longitude":-52.34034608,"qt_mat_eja":7,"qt_mat_eja_fund":7,"qt_mat_eja_med":0}
+,{"escola":"UD DE ARABUTA","municipio":"Arabutã","latitude":-27.15722094,"longitude":-52.13457535,"qt_mat_eja":15,"qt_mat_eja_fund":12,"qt_mat_eja_med":3}
+,{"escola":"UD DE IPIRA","municipio":"Ipira","latitude":-27.40104592,"longitude":-51.77867102,"qt_mat_eja":11,"qt_mat_eja_fund":6,"qt_mat_eja_med":5}
+,{"escola":"UD DE PAIAL","municipio":"Paial","latitude":-27.25636333,"longitude":-52.498935,"qt_mat_eja":4,"qt_mat_eja_fund":0,"qt_mat_eja_med":4}
+,{"escola":"UD DE LINDOIA DO SUL","municipio":"Lindóia do Sul","latitude":-27.05248447,"longitude":-52.09159895,"qt_mat_eja":2,"qt_mat_eja_fund":2,"qt_mat_eja_med":0}
+,{"escola":"UD DE CANELINHA","municipio":"Canelinha","latitude":null,"longitude":null,"qt_mat_eja":51,"qt_mat_eja_fund":29,"qt_mat_eja_med":22}
+,{"escola":"UD DE BOTUVERA","municipio":"Botuverá","latitude":null,"longitude":null,"qt_mat_eja":19,"qt_mat_eja_fund":9,"qt_mat_eja_med":10}
+,{"escola":"UD DE SAO JOAO BATISTA","municipio":"São João Batista","latitude":null,"longitude":null,"qt_mat_eja":96,"qt_mat_eja_fund":57,"qt_mat_eja_med":39}
+,{"escola":"UD DE PAPANDUVA","municipio":"Papanduva","latitude":-26.42133866,"longitude":-50.12541862,"qt_mat_eja":66,"qt_mat_eja_fund":38,"qt_mat_eja_med":28}
+,{"escola":"UD DE MAJOR VIEIRA","municipio":"Major Vieira","latitude":-26.36901748,"longitude":-50.32907938,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"UD DE VARGEAO","municipio":"Vargeão","latitude":-26.8623135,"longitude":-52.1510127,"qt_mat_eja":23,"qt_mat_eja_fund":8,"qt_mat_eja_med":15}
+,{"escola":"UD DE PASSOS MAIA","municipio":"Passos Maia","latitude":-26.7789629,"longitude":-52.05874499,"qt_mat_eja":26,"qt_mat_eja_fund":20,"qt_mat_eja_med":6}
+,{"escola":"CENTRO DE ED DE JOVENS E ADULTOS DE XAXIM","municipio":"Xaxim","latitude":-26.9613667,"longitude":-52.53443495,"qt_mat_eja":99,"qt_mat_eja_fund":99,"qt_mat_eja_med":0}
+,{"escola":"UD DE ORLEANS","municipio":"Orleans","latitude":-28.36081026,"longitude":-49.29108096,"qt_mat_eja":131,"qt_mat_eja_fund":82,"qt_mat_eja_med":49}
+,{"escola":"UD DE FORQUILHINHA","municipio":"Forquilhinha","latitude":-28.7503093,"longitude":-49.4736273,"qt_mat_eja":49,"qt_mat_eja_fund":22,"qt_mat_eja_med":27}
+,{"escola":"UD DE VIDAL RAMOS","municipio":"Vidal Ramos","latitude":-27.3918684,"longitude":-49.3622084,"qt_mat_eja":20,"qt_mat_eja_fund":8,"qt_mat_eja_med":12}
+,{"escola":"UD DE ALFREDO WAGNER","municipio":"Alfredo Wagner","latitude":-27.70152341,"longitude":-49.33491899,"qt_mat_eja":55,"qt_mat_eja_fund":42,"qt_mat_eja_med":13}
+,{"escola":"UD DE AGROLANDIA","municipio":"Agrolândia","latitude":-27.4125247,"longitude":-49.8291344,"qt_mat_eja":48,"qt_mat_eja_fund":29,"qt_mat_eja_med":19}
+,{"escola":"UD DE LEOBERTO LEAL","municipio":"Leoberto Leal","latitude":null,"longitude":null,"qt_mat_eja":19,"qt_mat_eja_fund":8,"qt_mat_eja_med":11}
+,{"escola":"UD DE CHAPADAO DO LAGEADO","municipio":"Chapadão do Lageado","latitude":-27.588622,"longitude":-49.5482325,"qt_mat_eja":15,"qt_mat_eja_fund":10,"qt_mat_eja_med":5}
+,{"escola":"UD DE PENHA","municipio":"Penha","latitude":null,"longitude":null,"qt_mat_eja":40,"qt_mat_eja_fund":0,"qt_mat_eja_med":40}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"São Bento do Sul","latitude":-26.24546,"longitude":-49.38739333,"qt_mat_eja":95,"qt_mat_eja_fund":19,"qt_mat_eja_med":76}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"São José","latitude":-27.55305597,"longitude":-48.62029795,"qt_mat_eja":841,"qt_mat_eja_fund":223,"qt_mat_eja_med":618}
+,{"escola":"UD DE MONTE CARLO","municipio":"Monte Carlo","latitude":null,"longitude":null,"qt_mat_eja":43,"qt_mat_eja_fund":26,"qt_mat_eja_med":17}
+,{"escola":"UD DE ZORTEA","municipio":"Zortéa","latitude":null,"longitude":null,"qt_mat_eja":27,"qt_mat_eja_fund":20,"qt_mat_eja_med":7}
+,{"escola":"EIEF TARUMA","municipio":"Garuva","latitude":null,"longitude":null,"qt_mat_eja":9,"qt_mat_eja_fund":9,"qt_mat_eja_med":0}
+,{"escola":"CEA MUN DOUTOR ALVINO RAITTZ","municipio":"Água Doce","latitude":-26.9934658,"longitude":-51.5559622,"qt_mat_eja":44,"qt_mat_eja_fund":44,"qt_mat_eja_med":0}
+,{"escola":"MAIS CURSOS PROFISSIONALIZANTES LTDA","municipio":"Xanxerê","latitude":null,"longitude":null,"qt_mat_eja":67,"qt_mat_eja_fund":7,"qt_mat_eja_med":60}
+,{"escola":"SESI SC - JARAGUA DO SUL","municipio":"Jaraguá do Sul","latitude":-26.5036544,"longitude":-49.0893027,"qt_mat_eja":335,"qt_mat_eja_fund":0,"qt_mat_eja_med":335}
+,{"escola":"IFC - CAMPUS SAO BENTO DO SUL","municipio":"São Bento do Sul","latitude":-26.24969501,"longitude":-49.34973748,"qt_mat_eja":7,"qt_mat_eja_fund":0,"qt_mat_eja_med":7}
+,{"escola":"UD FREI ROGERIO","municipio":"Frei Rogério","latitude":-27.1763429,"longitude":-50.8109729,"qt_mat_eja":24,"qt_mat_eja_fund":12,"qt_mat_eja_med":12}
+,{"escola":"UD DE CALMON","municipio":"Calmon","latitude":-26.60232167,"longitude":-51.09810333,"qt_mat_eja":25,"qt_mat_eja_fund":14,"qt_mat_eja_med":11}
+,{"escola":"UD DE MATOS COSTA","municipio":"Matos Costa","latitude":-26.47362104,"longitude":-51.14813067,"qt_mat_eja":4,"qt_mat_eja_fund":0,"qt_mat_eja_med":4}
+,{"escola":"UD DE TIMBO GRANDE","municipio":"Timbó Grande","latitude":-26.6146443,"longitude":-50.6725855,"qt_mat_eja":10,"qt_mat_eja_fund":0,"qt_mat_eja_med":10}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE CAMPOS NOVOS","municipio":"Campos Novos","latitude":null,"longitude":null,"qt_mat_eja":33,"qt_mat_eja_fund":20,"qt_mat_eja_med":13}
+,{"escola":"UD DE SAO BERNARDINO","municipio":"São Bernardino","latitude":null,"longitude":null,"qt_mat_eja":10,"qt_mat_eja_fund":8,"qt_mat_eja_med":2}
+,{"escola":"UD DE JAGUARUNA","municipio":"Jaguaruna","latitude":-28.62474613,"longitude":-49.01585142,"qt_mat_eja":32,"qt_mat_eja_fund":0,"qt_mat_eja_med":32}
+,{"escola":"UD PRESIDIO REGIONAL MASCULINO DE TUBARAO","municipio":"Tubarão","latitude":-28.4600577,"longitude":-49.0487165,"qt_mat_eja":46,"qt_mat_eja_fund":23,"qt_mat_eja_med":23}
+,{"escola":"UD PRESIDIO REGIONAL DE CONCORDIA","municipio":"Concórdia","latitude":-27.24752097,"longitude":-52.02261664,"qt_mat_eja":54,"qt_mat_eja_fund":33,"qt_mat_eja_med":21}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE VIDEIRA","municipio":"Videira","latitude":null,"longitude":null,"qt_mat_eja":29,"qt_mat_eja_fund":17,"qt_mat_eja_med":12}
+,{"escola":"UD PRESIDIO REGIONAL DE PORTO UNIAO","municipio":"Porto União","latitude":-26.2385954,"longitude":-51.08102214,"qt_mat_eja":28,"qt_mat_eja_fund":15,"qt_mat_eja_med":13}
+,{"escola":"UD PRESIDIO REGIONAL DE TIJUCAS","municipio":"Tijucas","latitude":null,"longitude":null,"qt_mat_eja":118,"qt_mat_eja_fund":69,"qt_mat_eja_med":49}
+,{"escola":"UD PRESIDIO REGIONAL DE JARAGUA DO SUL","municipio":"Jaraguá do Sul","latitude":-26.5168144,"longitude":-49.1593072,"qt_mat_eja":103,"qt_mat_eja_fund":20,"qt_mat_eja_med":83}
+,{"escola":"UD PRESIDIO REGIONAL DE LAGES","municipio":"Lages","latitude":-27.81866768,"longitude":-50.31124487,"qt_mat_eja":9,"qt_mat_eja_fund":9,"qt_mat_eja_med":0}
+,{"escola":"UD PRESIDIO REGIONAL DE BLUMENAU","municipio":"Blumenau","latitude":-26.90131773,"longitude":-49.134534,"qt_mat_eja":22,"qt_mat_eja_fund":8,"qt_mat_eja_med":14}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE BARRA VELHA","municipio":"Barra Velha","latitude":null,"longitude":null,"qt_mat_eja":17,"qt_mat_eja_fund":0,"qt_mat_eja_med":17}
+,{"escola":"UD PRESIDIO REGIONAL DE JOACABA","municipio":"Joaçaba","latitude":-27.17850715,"longitude":-51.5431235,"qt_mat_eja":23,"qt_mat_eja_fund":23,"qt_mat_eja_med":0}
+,{"escola":"UD BALNEARIO RINCAO","municipio":"Balneário Rincão","latitude":-28.8243695,"longitude":-49.2284339,"qt_mat_eja":59,"qt_mat_eja_fund":43,"qt_mat_eja_med":16}
+,{"escola":"UD PRESIDIO REGIONAL DE CRICIUMA","municipio":"Criciúma","latitude":-28.69461222,"longitude":-49.40305447,"qt_mat_eja":22,"qt_mat_eja_fund":15,"qt_mat_eja_med":7}
+,{"escola":"UD PENITENCIARIA SUL","municipio":"Criciúma","latitude":-28.69111139,"longitude":-49.38827408,"qt_mat_eja":15,"qt_mat_eja_fund":9,"qt_mat_eja_med":6}
+,{"escola":"UD PRISIONAL AVANCADA DE MARAVILHA","municipio":"Maravilha","latitude":-26.77158971,"longitude":-53.18994288,"qt_mat_eja":22,"qt_mat_eja_fund":22,"qt_mat_eja_med":0}
+,{"escola":"UD PRESIDIO REGIONAL DE XANXERE","municipio":"Xanxerê","latitude":-26.87996255,"longitude":-52.38106445,"qt_mat_eja":118,"qt_mat_eja_fund":67,"qt_mat_eja_med":51}
+,{"escola":"UD DO PRESIDIO REGIONAL DE CACADOR","municipio":"Caçador","latitude":-26.7964815,"longitude":-51.0013006,"qt_mat_eja":37,"qt_mat_eja_fund":26,"qt_mat_eja_med":11}
+,{"escola":"UD PRESIDIO REGIONAL DE ARARANGUA","municipio":"Araranguá","latitude":-28.97142164,"longitude":-49.534992,"qt_mat_eja":45,"qt_mat_eja_fund":45,"qt_mat_eja_med":0}
+,{"escola":"UD DE NOVA TRENTO","municipio":"Nova Trento","latitude":null,"longitude":null,"qt_mat_eja":16,"qt_mat_eja_fund":5,"qt_mat_eja_med":11}
+,{"escola":"UD UPA DE ITAPEMA","municipio":"Itapema","latitude":null,"longitude":null,"qt_mat_eja":8,"qt_mat_eja_fund":2,"qt_mat_eja_med":6}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE BRUSQUE","municipio":"Brusque","latitude":null,"longitude":null,"qt_mat_eja":19,"qt_mat_eja_fund":19,"qt_mat_eja_med":0}
+,{"escola":"UD PRESIDIO REGIONAL FEMININO DE CHAPECO","municipio":"Chapecó","latitude":-27.1118482,"longitude":-52.6757215,"qt_mat_eja":73,"qt_mat_eja_fund":54,"qt_mat_eja_med":19}
+,{"escola":"SESI SC - TIMBO","municipio":"Timbó","latitude":-26.8269637,"longitude":-49.2713939,"qt_mat_eja":134,"qt_mat_eja_fund":26,"qt_mat_eja_med":108}
+,{"escola":"IFSC - CAMPUS AVANCADO SAO LOURENCO DO OESTE","municipio":"São Lourenço do Oeste","latitude":-26.40429107,"longitude":-52.78483203,"qt_mat_eja":10,"qt_mat_eja_fund":0,"qt_mat_eja_med":10}
+,{"escola":"UD DO COMPLEXO PENITENCIARIO DO VALE DO ITAJAI","municipio":"Itajaí","latitude":null,"longitude":null,"qt_mat_eja":362,"qt_mat_eja_fund":139,"qt_mat_eja_med":223}
+,{"escola":"UD PRESIDIO REGIONAL DE ITAJAI FEMININO","municipio":"Itajaí","latitude":null,"longitude":null,"qt_mat_eja":38,"qt_mat_eja_fund":18,"qt_mat_eja_med":20}
+,{"escola":"UD PENITENCIARIA INDUSTRIAL DE SAO CRISTOVAO DO SUL","municipio":"São Cristóvão do Sul","latitude":-27.26428417,"longitude":-50.4302944,"qt_mat_eja":159,"qt_mat_eja_fund":51,"qt_mat_eja_med":108}
+,{"escola":"UD BOMBINHAS","municipio":"Bombinhas","latitude":null,"longitude":null,"qt_mat_eja":25,"qt_mat_eja_fund":0,"qt_mat_eja_med":25}
+,{"escola":"UD PENITENCIARIA INDUSTRIAL DE CHAPECO","municipio":"Chapecó","latitude":null,"longitude":null,"qt_mat_eja":222,"qt_mat_eja_fund":47,"qt_mat_eja_med":175}
+,{"escola":"UD DE CERRO NEGRO","municipio":"Cerro Negro","latitude":null,"longitude":null,"qt_mat_eja":13,"qt_mat_eja_fund":0,"qt_mat_eja_med":13}
+,{"escola":"UD PRESIDIO REGIONAL DE JOINVILLE","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":144,"qt_mat_eja_fund":132,"qt_mat_eja_med":12}
+,{"escola":"UD PENITENCIARIA FEMININA DE CRICIUMA","municipio":"Criciúma","latitude":-28.69114731,"longitude":-49.38851531,"qt_mat_eja":18,"qt_mat_eja_fund":13,"qt_mat_eja_med":5}
+,{"escola":"UD DE IPUACU","municipio":"Ipuaçu","latitude":null,"longitude":null,"qt_mat_eja":27,"qt_mat_eja_fund":15,"qt_mat_eja_med":12}
+,{"escola":"UD DE ASCURRA","municipio":"Ascurra","latitude":-26.96534134,"longitude":-49.36357793,"qt_mat_eja":43,"qt_mat_eja_fund":31,"qt_mat_eja_med":12}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Barra Velha","latitude":null,"longitude":null,"qt_mat_eja":228,"qt_mat_eja_fund":54,"qt_mat_eja_med":174}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"São Francisco do Sul","latitude":null,"longitude":null,"qt_mat_eja":208,"qt_mat_eja_fund":42,"qt_mat_eja_med":166}
+,{"escola":"SESI SC - GUARAMIRIM","municipio":"Guaramirim","latitude":null,"longitude":null,"qt_mat_eja":70,"qt_mat_eja_fund":0,"qt_mat_eja_med":70}
+,{"escola":"SESI SC - INDAIAL","municipio":"Indaial","latitude":-26.89609657,"longitude":-49.22998134,"qt_mat_eja":141,"qt_mat_eja_fund":0,"qt_mat_eja_med":141}
+,{"escola":"SESI SC - IBIRAMA","municipio":"Ibirama","latitude":-27.06169687,"longitude":-49.51939403,"qt_mat_eja":30,"qt_mat_eja_fund":11,"qt_mat_eja_med":19}
+,{"escola":"UD DE LONTRAS","municipio":"Lontras","latitude":-27.166451,"longitude":-49.54340961,"qt_mat_eja":110,"qt_mat_eja_fund":74,"qt_mat_eja_med":36}
+,{"escola":"UD DE ANITAPOLIS","municipio":"Anitápolis","latitude":null,"longitude":null,"qt_mat_eja":19,"qt_mat_eja_fund":9,"qt_mat_eja_med":10}
+,{"escola":"UD DE RIO DAS ANTAS","municipio":"Rio das Antas","latitude":-26.8928007,"longitude":-51.0751336,"qt_mat_eja":17,"qt_mat_eja_fund":7,"qt_mat_eja_med":10}
+,{"escola":"UD DE PONTE ALTA DO NORTE","municipio":"Ponte Alta do Norte","latitude":-27.1621067,"longitude":-50.4699251,"qt_mat_eja":16,"qt_mat_eja_fund":16,"qt_mat_eja_med":0}
+,{"escola":"IFC - CAMPUS SOMBRIO","municipio":"Sombrio","latitude":-29.1020048,"longitude":-49.6389374,"qt_mat_eja":55,"qt_mat_eja_fund":0,"qt_mat_eja_med":55}
+,{"escola":"CENTRO DE EDUC PROFISSIONAL FILADELFIA","municipio":"Itajaí","latitude":null,"longitude":null,"qt_mat_eja":28,"qt_mat_eja_fund":0,"qt_mat_eja_med":28}
+,{"escola":"SESI SC - SAO BENTO DO SUL","municipio":"São Bento do Sul","latitude":-26.2512323,"longitude":-49.3787761,"qt_mat_eja":162,"qt_mat_eja_fund":0,"qt_mat_eja_med":162}
+,{"escola":"IFSC - CAMPUS SAO CARLOS","municipio":"São Carlos","latitude":-27.09210361,"longitude":-53.01345875,"qt_mat_eja":20,"qt_mat_eja_fund":0,"qt_mat_eja_med":20}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Itajaí","latitude":null,"longitude":null,"qt_mat_eja":395,"qt_mat_eja_fund":88,"qt_mat_eja_med":307}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Rio Negrinho","latitude":null,"longitude":null,"qt_mat_eja":98,"qt_mat_eja_fund":15,"qt_mat_eja_med":83}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Garuva","latitude":null,"longitude":null,"qt_mat_eja":150,"qt_mat_eja_fund":39,"qt_mat_eja_med":111}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Araquari","latitude":null,"longitude":null,"qt_mat_eja":304,"qt_mat_eja_fund":87,"qt_mat_eja_med":217}
+,{"escola":"ESCOLA MUNICIPAL CRESCER E APRENDER","municipio":"Tangará","latitude":-27.0989417,"longitude":-51.24022274,"qt_mat_eja":115,"qt_mat_eja_fund":21,"qt_mat_eja_med":94}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Brusque","latitude":null,"longitude":null,"qt_mat_eja":273,"qt_mat_eja_fund":80,"qt_mat_eja_med":193}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Blumenau","latitude":null,"longitude":null,"qt_mat_eja":106,"qt_mat_eja_fund":31,"qt_mat_eja_med":75}
+,{"escola":"COOEPERATIVA DE TRABALHO EDUCACIONAL DE ESPECIALISTAS E PROFESSORES - COOEPE","municipio":"São João Batista","latitude":null,"longitude":null,"qt_mat_eja":50,"qt_mat_eja_fund":22,"qt_mat_eja_med":28}
+,{"escola":"UD DE SAO CARLOS","municipio":"São Carlos","latitude":-27.07947132,"longitude":-53.00288755,"qt_mat_eja":72,"qt_mat_eja_fund":50,"qt_mat_eja_med":22}
+,{"escola":"CENTRO DE ENSINO FLORIPA","municipio":"Florianópolis","latitude":null,"longitude":null,"qt_mat_eja":3376,"qt_mat_eja_fund":764,"qt_mat_eja_med":2612}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS COOEP","municipio":"Barra Velha","latitude":null,"longitude":null,"qt_mat_eja":13,"qt_mat_eja_fund":2,"qt_mat_eja_med":11}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE ITUPORANGA","municipio":"Ituporanga","latitude":-27.41851646,"longitude":-49.59892505,"qt_mat_eja":27,"qt_mat_eja_fund":11,"qt_mat_eja_med":16}
+,{"escola":"UD QUILOMBOLA ILHOTINHA","municipio":"Capivari de Baixo","latitude":null,"longitude":null,"qt_mat_eja":42,"qt_mat_eja_fund":30,"qt_mat_eja_med":12}
+,{"escola":"UD QUILOMBOLA CALDAS DO CUBATAO","municipio":"Santo Amaro da Imperatriz","latitude":null,"longitude":null,"qt_mat_eja":18,"qt_mat_eja_fund":10,"qt_mat_eja_med":8}
+,{"escola":"UD PRESIDIO REGIONAL MASCULINO DE CHAPECO","municipio":"Chapecó","latitude":null,"longitude":null,"qt_mat_eja":20,"qt_mat_eja_fund":20,"qt_mat_eja_med":0}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE SAO FRANCISCO DO SUL","municipio":"São Francisco do Sul","latitude":null,"longitude":null,"qt_mat_eja":24,"qt_mat_eja_fund":24,"qt_mat_eja_med":0}
+,{"escola":"EIEF NHAMANDU","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":4,"qt_mat_eja_fund":4,"qt_mat_eja_med":0}
+,{"escola":"UD DE MIRIM DOCE","municipio":"Mirim Doce","latitude":null,"longitude":null,"qt_mat_eja":5,"qt_mat_eja_fund":2,"qt_mat_eja_med":3}
+,{"escola":"UD PRESIDIO FEMININO DE JOINVILLE","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":142,"qt_mat_eja_fund":80,"qt_mat_eja_med":62}
+,{"escola":"UD DE COCAL DO SUL","municipio":"Cocal do Sul","latitude":null,"longitude":null,"qt_mat_eja":145,"qt_mat_eja_fund":84,"qt_mat_eja_med":61}
+,{"escola":"SESI SC - ITAJAI III","municipio":"Itajaí","latitude":null,"longitude":null,"qt_mat_eja":353,"qt_mat_eja_fund":87,"qt_mat_eja_med":266}
+,{"escola":"SESI SC - CHAPECO","municipio":"Chapecó","latitude":-27.10344749,"longitude":-52.61434986,"qt_mat_eja":320,"qt_mat_eja_fund":94,"qt_mat_eja_med":226}
+,{"escola":"UD DE JOSE BOITEUX","municipio":"José Boiteux","latitude":null,"longitude":null,"qt_mat_eja":22,"qt_mat_eja_fund":11,"qt_mat_eja_med":11}
+,{"escola":"UD DE RIO DO OESTE","municipio":"Rio do Oeste","latitude":-27.2008932,"longitude":-49.8004607,"qt_mat_eja":19,"qt_mat_eja_fund":13,"qt_mat_eja_med":6}
+,{"escola":"CENTRO EDUCACIONAL BRASIL LTDA","municipio":"Tubarão","latitude":-28.4808756,"longitude":-49.0041921,"qt_mat_eja":113,"qt_mat_eja_fund":21,"qt_mat_eja_med":92}
+,{"escola":"EIEF PIRA RUPA","municipio":"Palhoça","latitude":null,"longitude":null,"qt_mat_eja":13,"qt_mat_eja_fund":5,"qt_mat_eja_med":8}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Joinville","latitude":-26.2738548,"longitude":-48.827412,"qt_mat_eja":3031,"qt_mat_eja_fund":486,"qt_mat_eja_med":2545}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"Joinville","latitude":-26.2970546,"longitude":-48.843645,"qt_mat_eja":26,"qt_mat_eja_fund":1,"qt_mat_eja_med":25}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS","municipio":"Itapema","latitude":-27.12796,"longitude":-48.60332,"qt_mat_eja":386,"qt_mat_eja_fund":81,"qt_mat_eja_med":305}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS - COOEPE","municipio":"Rio Negrinho","latitude":null,"longitude":null,"qt_mat_eja":35,"qt_mat_eja_fund":10,"qt_mat_eja_med":25}
+,{"escola":"COOEPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"Blumenau","latitude":-26.8864245,"longitude":-49.0833324,"qt_mat_eja":501,"qt_mat_eja_fund":158,"qt_mat_eja_med":343}
+,{"escola":"CENTRO DE EDUCACAO PROF NEIDE KRUGER","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":13,"qt_mat_eja_fund":0,"qt_mat_eja_med":13}
+,{"escola":"APAS","municipio":"São Miguel do Oeste","latitude":-26.7402732,"longitude":-53.512298,"qt_mat_eja":59,"qt_mat_eja_fund":59,"qt_mat_eja_med":0}
+,{"escola":"COOEPE- COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"Brusque","latitude":-27.10004,"longitude":-48.91725,"qt_mat_eja":107,"qt_mat_eja_fund":27,"qt_mat_eja_med":80}
+,{"escola":"CENTRO DE EDUCACAO DE JOVENS E ADULTOS","municipio":"Grão-Pará","latitude":-28.18550397,"longitude":-49.21300088,"qt_mat_eja":40,"qt_mat_eja_fund":28,"qt_mat_eja_med":12}
+,{"escola":"EIEF NHEMBOEA VYA","municipio":"Major Gercino","latitude":-27.37882672,"longitude":-48.92869525,"qt_mat_eja":22,"qt_mat_eja_fund":11,"qt_mat_eja_med":11}
+,{"escola":"ENSINO DE EDUCACAO DE JOVENS E ADULTOS","municipio":"Balneário Gaivota","latitude":-29.1628252,"longitude":-49.58737011,"qt_mat_eja":72,"qt_mat_eja_fund":72,"qt_mat_eja_med":0}
+,{"escola":"IFC - CAMPUS VIDEIRA","municipio":"Videira","latitude":-27.0268813,"longitude":-51.1449898,"qt_mat_eja":16,"qt_mat_eja_fund":0,"qt_mat_eja_med":16}
+,{"escola":"NAES PROF MARLETE MARIA DE SOUZA","municipio":"Bocaina do Sul","latitude":-27.74189167,"longitude":-49.945775,"qt_mat_eja":15,"qt_mat_eja_fund":15,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE DIONISIO CERQUEIRA","municipio":"Dionísio Cerqueira","latitude":-26.26430667,"longitude":-53.62920333,"qt_mat_eja":21,"qt_mat_eja_fund":9,"qt_mat_eja_med":12}
+,{"escola":"CEJA DE SEARA","municipio":"Seara","latitude":-27.16105977,"longitude":-52.31869188,"qt_mat_eja":66,"qt_mat_eja_fund":43,"qt_mat_eja_med":23}
+,{"escola":"SESI SC - TUBARAO II","municipio":"Tubarão","latitude":-28.48473967,"longitude":-49.01595534,"qt_mat_eja":158,"qt_mat_eja_fund":18,"qt_mat_eja_med":140}
+,{"escola":"SESI SC - SAO MIGUEL DO OESTE II","municipio":"São Miguel do Oeste","latitude":-26.72604333,"longitude":-53.53486333,"qt_mat_eja":110,"qt_mat_eja_fund":32,"qt_mat_eja_med":78}
+,{"escola":"SESI SC - SAO JOSE II","municipio":"São José","latitude":-27.61991828,"longitude":-48.64670237,"qt_mat_eja":198,"qt_mat_eja_fund":22,"qt_mat_eja_med":176}
+,{"escola":"SESI SC - BLUMENAU II","municipio":"Blumenau","latitude":-26.90746306,"longitude":-49.07652159,"qt_mat_eja":291,"qt_mat_eja_fund":43,"qt_mat_eja_med":248}
+,{"escola":"SESI SC - BRUSQUE IV","municipio":"Brusque","latitude":null,"longitude":null,"qt_mat_eja":260,"qt_mat_eja_fund":76,"qt_mat_eja_med":184}
+,{"escola":"SESI SC - CONCORDIA II","municipio":"Concórdia","latitude":-27.22246,"longitude":-51.98222,"qt_mat_eja":108,"qt_mat_eja_fund":0,"qt_mat_eja_med":108}
+,{"escola":"EJA DE MASSARANDUBA","municipio":"Massaranduba","latitude":null,"longitude":null,"qt_mat_eja":51,"qt_mat_eja_fund":23,"qt_mat_eja_med":28}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS - COOEPE","municipio":"Criciúma","latitude":null,"longitude":null,"qt_mat_eja":31,"qt_mat_eja_fund":6,"qt_mat_eja_med":25}
+,{"escola":"COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS - COOEPE","municipio":"Imbituba","latitude":null,"longitude":null,"qt_mat_eja":92,"qt_mat_eja_fund":21,"qt_mat_eja_med":71}
+,{"escola":"INSTITUTO TECNOLOGICO ASSESSORITEC","municipio":"Jaraguá do Sul","latitude":null,"longitude":null,"qt_mat_eja":130,"qt_mat_eja_fund":20,"qt_mat_eja_med":110}
+,{"escola":"UD DE VITOR MEIRELES","municipio":"Vitor Meireles","latitude":-26.88433495,"longitude":-49.83828084,"qt_mat_eja":27,"qt_mat_eja_fund":27,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL DE JOVENS E ADULTOS CESITA","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":204,"qt_mat_eja_fund":204,"qt_mat_eja_med":0}
+,{"escola":"UD DE WITMARSUM","municipio":"Witmarsum","latitude":-26.92820729,"longitude":-49.79143729,"qt_mat_eja":8,"qt_mat_eja_fund":8,"qt_mat_eja_med":0}
+,{"escola":"UD DE PRESIDENTE NEREU","municipio":"Presidente Nereu","latitude":-27.28160339,"longitude":-49.39162418,"qt_mat_eja":20,"qt_mat_eja_fund":8,"qt_mat_eja_med":12}
+,{"escola":"UD DE CAIBI","municipio":"Caibi","latitude":-27.07376772,"longitude":-53.24595115,"qt_mat_eja":21,"qt_mat_eja_fund":14,"qt_mat_eja_med":7}
+,{"escola":"UD DE CUNHA PORA","municipio":"Cunha Porã","latitude":-26.89759923,"longitude":-53.16987689,"qt_mat_eja":19,"qt_mat_eja_fund":13,"qt_mat_eja_med":6}
+,{"escola":"UD PRESIDIO MASCULINO DE FLORIANOPOLIS","municipio":"Florianópolis","latitude":-27.57713689,"longitude":-48.52714752,"qt_mat_eja":88,"qt_mat_eja_fund":78,"qt_mat_eja_med":10}
+,{"escola":"UD PRESIDIO FEMININO DE FLORIANOPOLIS","municipio":"Florianópolis","latitude":-27.58053747,"longitude":-48.52636859,"qt_mat_eja":30,"qt_mat_eja_fund":17,"qt_mat_eja_med":13}
+,{"escola":"UD HOSPITAL DE CUSTODIA E TRATAMENTO PSICOLOGICO","municipio":"Florianópolis","latitude":-27.57730511,"longitude":-48.52718063,"qt_mat_eja":16,"qt_mat_eja_fund":16,"qt_mat_eja_med":0}
+,{"escola":"UD QUILOMBOLA VIDAL MARTINS","municipio":"Florianópolis","latitude":-27.52650001,"longitude":-48.42776903,"qt_mat_eja":117,"qt_mat_eja_fund":80,"qt_mat_eja_med":37}
+,{"escola":"UD QUILOMBOLA MORRO DA QUEIMADA","municipio":"Florianópolis","latitude":-27.61316617,"longitude":-48.54594477,"qt_mat_eja":97,"qt_mat_eja_fund":41,"qt_mat_eja_med":56}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE SAO JOSE DO CEDRO","municipio":"São José do Cedro","latitude":-26.45697354,"longitude":-53.49124499,"qt_mat_eja":33,"qt_mat_eja_fund":21,"qt_mat_eja_med":12}
+,{"escola":"UD PRESIDIO DE BIGUACU","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":31,"qt_mat_eja_fund":15,"qt_mat_eja_med":16}
+,{"escola":"UD DE SANTO AMARO DA IMPERATRIZ","municipio":"Santo Amaro da Imperatriz","latitude":null,"longitude":null,"qt_mat_eja":27,"qt_mat_eja_fund":0,"qt_mat_eja_med":27}
+,{"escola":"UD DE PRESIDENTE GETULIO","municipio":"Presidente Getúlio","latitude":-27.03692237,"longitude":-49.59674852,"qt_mat_eja":82,"qt_mat_eja_fund":61,"qt_mat_eja_med":21}
+,{"escola":"UD PRESIDIO MASCULINO DE ITAJAI","municipio":"Itajaí","latitude":null,"longitude":null,"qt_mat_eja":295,"qt_mat_eja_fund":213,"qt_mat_eja_med":82}
+,{"escola":"UD DE SANTA HELENA","municipio":"Santa Helena","latitude":null,"longitude":null,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"UD QUILOMBOLA INVERNADA DOS NEGROS","municipio":"Campos Novos","latitude":null,"longitude":null,"qt_mat_eja":59,"qt_mat_eja_fund":39,"qt_mat_eja_med":20}
+,{"escola":"UD QUILOMBOLA SAO ROQUE","municipio":"Praia Grande","latitude":-29.25887784,"longitude":-50.11559009,"qt_mat_eja":29,"qt_mat_eja_fund":14,"qt_mat_eja_med":15}
+,{"escola":"UD QUILOMBOLA MORRO DO FORTUNATO","municipio":"Garopaba","latitude":-28.02245167,"longitude":-48.66443,"qt_mat_eja":12,"qt_mat_eja_fund":12,"qt_mat_eja_med":0}
+,{"escola":"UD QUILOMBOLA ALDEIA","municipio":"Garopaba","latitude":-28.09968833,"longitude":-48.67401667,"qt_mat_eja":13,"qt_mat_eja_fund":7,"qt_mat_eja_med":6}
+,{"escola":"UD DE MONDAI","municipio":"Mondaí","latitude":-27.10459046,"longitude":-53.40149906,"qt_mat_eja":32,"qt_mat_eja_fund":23,"qt_mat_eja_med":9}
+,{"escola":"UD QUILOMBOLA ITAPOCU","municipio":"Araquari","latitude":null,"longitude":null,"qt_mat_eja":26,"qt_mat_eja_fund":22,"qt_mat_eja_med":4}
+,{"escola":"UD QUILOMBOLA AREIAS","municipio":"Araquari","latitude":null,"longitude":null,"qt_mat_eja":54,"qt_mat_eja_fund":32,"qt_mat_eja_med":22}
+,{"escola":"UD QUILOMBOLA TAPERA","municipio":"São Francisco do Sul","latitude":null,"longitude":null,"qt_mat_eja":135,"qt_mat_eja_fund":47,"qt_mat_eja_med":88}
+,{"escola":"UD QUILOMBOLA BECO DO CAMINHO CURTO","municipio":"Joinville","latitude":null,"longitude":null,"qt_mat_eja":27,"qt_mat_eja_fund":15,"qt_mat_eja_med":12}
+,{"escola":"CETER CENTRO DE EDUCACAO TECNOLOGICA REPUBLICA LTDA","municipio":"São José","latitude":null,"longitude":null,"qt_mat_eja":12,"qt_mat_eja_fund":0,"qt_mat_eja_med":12}
+,{"escola":"ESCOLA BASICA MUNICIPAL ROGERIO LEONARDO KUHNEN","municipio":"Camboriú","latitude":null,"longitude":null,"qt_mat_eja":203,"qt_mat_eja_fund":203,"qt_mat_eja_med":0}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS COOEPE","municipio":"Joaçaba","latitude":null,"longitude":null,"qt_mat_eja":6,"qt_mat_eja_fund":6,"qt_mat_eja_med":0}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS - COOEPE","municipio":"Tijucas","latitude":null,"longitude":null,"qt_mat_eja":14,"qt_mat_eja_fund":2,"qt_mat_eja_med":12}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS COOEPE","municipio":"São Lourenço do Oeste","latitude":null,"longitude":null,"qt_mat_eja":4,"qt_mat_eja_fund":0,"qt_mat_eja_med":4}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS COOEPE","municipio":"Massaranduba","latitude":null,"longitude":null,"qt_mat_eja":5,"qt_mat_eja_fund":2,"qt_mat_eja_med":3}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS COOEPE","municipio":"Irineópolis","latitude":null,"longitude":null,"qt_mat_eja":24,"qt_mat_eja_fund":24,"qt_mat_eja_med":0}
+,{"escola":"UD DE TREVISO","municipio":"Treviso","latitude":-28.5121288,"longitude":-49.4567764,"qt_mat_eja":14,"qt_mat_eja_fund":7,"qt_mat_eja_med":7}
+,{"escola":"EIEB TAGUATO","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":11,"qt_mat_eja_fund":11,"qt_mat_eja_med":0}
+,{"escola":"EIEF AMBA Y JU","municipio":"São Francisco do Sul","latitude":-26.2394091,"longitude":-48.5968152,"qt_mat_eja":6,"qt_mat_eja_fund":6,"qt_mat_eja_med":0}
+,{"escola":"EIEF JATAITY","municipio":"Balneário Barra do Sul","latitude":null,"longitude":null,"qt_mat_eja":11,"qt_mat_eja_fund":4,"qt_mat_eja_med":7}
+,{"escola":"COOEPE - COOPERATIVA DE EDUCACAO DE PROFESSORES E ESPECIALISTAS","municipio":"Chapecó","latitude":-27.10831,"longitude":-52.609,"qt_mat_eja":75,"qt_mat_eja_fund":24,"qt_mat_eja_med":51}
+,{"escola":"CEJA CENTRO EDUCACIONAL DE JOVENS E ADULTOS GAROPABA","municipio":"Garopaba","latitude":-28.03534159,"longitude":-48.6254804,"qt_mat_eja":24,"qt_mat_eja_fund":24,"qt_mat_eja_med":0}
+,{"escola":"EMEB RUBENS DE ARRUDA RAMOS","municipio":"Criciúma","latitude":-28.6879753,"longitude":-49.3456359,"qt_mat_eja":164,"qt_mat_eja_fund":164,"qt_mat_eja_med":0}
+,{"escola":"CEJA DE SAO JOSE","municipio":"São José","latitude":-27.60388518,"longitude":-48.62335064,"qt_mat_eja":294,"qt_mat_eja_fund":22,"qt_mat_eja_med":272}
+,{"escola":"SESI SC - LAGES","municipio":"Lages","latitude":-27.7959847,"longitude":-50.3019387,"qt_mat_eja":287,"qt_mat_eja_fund":47,"qt_mat_eja_med":240}
+,{"escola":"EMEB PROFESSOR EDUARDO PEDRO AMARAL","municipio":"Lages","latitude":-27.797136,"longitude":-50.338374,"qt_mat_eja":19,"qt_mat_eja_fund":19,"qt_mat_eja_med":0}
+,{"escola":"EMEB MUTIRAO","municipio":"Lages","latitude":-27.83541903,"longitude":-50.31713622,"qt_mat_eja":18,"qt_mat_eja_fund":18,"qt_mat_eja_med":0}
+,{"escola":"CURSO COLEGIO MULTIPLA ESCOLHA","municipio":"Capivari de Baixo","latitude":null,"longitude":null,"qt_mat_eja":81,"qt_mat_eja_fund":14,"qt_mat_eja_med":67}
+,{"escola":"EIEF KUARAY PAPA","municipio":"Canelinha","latitude":null,"longitude":null,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"ESCOLA MUNICIPAL PROFª ROSA MARIA XAVIER DE ARAUJO","municipio":"Navegantes","latitude":-26.8643983,"longitude":-48.6419767,"qt_mat_eja":62,"qt_mat_eja_fund":62,"qt_mat_eja_med":0}
+,{"escola":"IFC - CAMPUS CAMBORIU","municipio":"Camboriú","latitude":-27.01603368,"longitude":-48.65889821,"qt_mat_eja":20,"qt_mat_eja_fund":0,"qt_mat_eja_med":20}
+,{"escola":"CEJA DE BALNEARIO CAMBORIU","municipio":"Balneário Camboriú","latitude":null,"longitude":null,"qt_mat_eja":212,"qt_mat_eja_fund":0,"qt_mat_eja_med":212}
+,{"escola":"EMEB MORADA DO SOL","municipio":"Caçador","latitude":-26.7923194,"longitude":-50.9939859,"qt_mat_eja":29,"qt_mat_eja_fund":29,"qt_mat_eja_med":0}
+,{"escola":"IFSC - CAMPUS URUPEMA","municipio":"Urupema","latitude":-27.95797147,"longitude":-49.87229569,"qt_mat_eja":87,"qt_mat_eja_fund":60,"qt_mat_eja_med":27}
+,{"escola":"EIEB CACIQUE VANHKRE","municipio":"Ipuaçu","latitude":-26.7326123,"longitude":-52.4596138,"qt_mat_eja":34,"qt_mat_eja_fund":13,"qt_mat_eja_med":21}
+,{"escola":"EIEB PINHALZINHO","municipio":"Ipuaçu","latitude":-26.672345,"longitude":-52.43781167,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"IFC - CAMPUS FRAIBURGO","municipio":"Fraiburgo","latitude":-27.0300006,"longitude":-50.9181761,"qt_mat_eja":12,"qt_mat_eja_fund":0,"qt_mat_eja_med":12}
+,{"escola":"EIEF MBYA LIMEIRA","municipio":"Entre Rios","latitude":-26.746832,"longitude":-52.6034323,"qt_mat_eja":6,"qt_mat_eja_fund":6,"qt_mat_eja_med":0}
+,{"escola":"EIEB PAIOL DE BARRO","municipio":"Entre Rios","latitude":-26.7618393,"longitude":-52.5678162,"qt_mat_eja":25,"qt_mat_eja_fund":14,"qt_mat_eja_med":11}
+,{"escola":"ESCOLA PRIMARIA MUNICIPAL TIA CHIQUINHA","municipio":"Major Vieira","latitude":-26.368365,"longitude":-50.329805,"qt_mat_eja":1,"qt_mat_eja_fund":1,"qt_mat_eja_med":0}
+,{"escola":"COOPERATIVA DE TRABALHO EDUCACIONAL DE PROFESSORES E ESPECIALISTAS - COOEPE","municipio":"Capinzal","latitude":-27.3458505,"longitude":-51.6094767,"qt_mat_eja":63,"qt_mat_eja_fund":26,"qt_mat_eja_med":37}
+,{"escola":"EMEB PROFª LILI COELHO","municipio":"Criciúma","latitude":-28.6988798,"longitude":-49.4277125,"qt_mat_eja":158,"qt_mat_eja_fund":158,"qt_mat_eja_med":0}
+,{"escola":"EMEB NOSSA SENHORA DOS PRAZERES","municipio":"Lages","latitude":-27.84116345,"longitude":-50.34584356,"qt_mat_eja":60,"qt_mat_eja_fund":35,"qt_mat_eja_med":25}
+,{"escola":"SESI SC - PINHALZINHO","municipio":"Pinhalzinho","latitude":-26.84568116,"longitude":-52.98568534,"qt_mat_eja":38,"qt_mat_eja_fund":38,"qt_mat_eja_med":0}
+,{"escola":"SESI SC - VIDEIRA","municipio":"Videira","latitude":-27.01245667,"longitude":-51.15294333,"qt_mat_eja":169,"qt_mat_eja_fund":54,"qt_mat_eja_med":115}
+,{"escola":"ESCOLA MUNICIPAL PAULINE PARUCKER","municipio":"Joinville","latitude":-26.3683,"longitude":-48.82323,"qt_mat_eja":32,"qt_mat_eja_fund":32,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL PREFEITO JOAQUIM FELIX MOREIRA","municipio":"Joinville","latitude":-26.34392,"longitude":-48.77281,"qt_mat_eja":87,"qt_mat_eja_fund":87,"qt_mat_eja_med":0}
+,{"escola":"EB MUN JARDIM DO LAGO","municipio":"Chapecó","latitude":-27.0981345,"longitude":-52.68648224,"qt_mat_eja":42,"qt_mat_eja_fund":42,"qt_mat_eja_med":0}
+,{"escola":"EMEB PE PAULO PETRUZZELLIS","municipio":"Criciúma","latitude":-28.69920399,"longitude":-49.39844574,"qt_mat_eja":136,"qt_mat_eja_fund":136,"qt_mat_eja_med":0}
+,{"escola":"EIEF KAAKUPE","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":12,"qt_mat_eja_fund":12,"qt_mat_eja_med":0}
+,{"escola":"UD DE PETROLANDIA","municipio":"Petrolândia","latitude":-27.53298603,"longitude":-49.69971527,"qt_mat_eja":41,"qt_mat_eja_fund":27,"qt_mat_eja_med":14}
+,{"escola":"IFSC - CAMPUS JARAGUA DO SUL","municipio":"Jaraguá do Sul","latitude":-26.47794,"longitude":-49.08971,"qt_mat_eja":21,"qt_mat_eja_fund":0,"qt_mat_eja_med":21}
+,{"escola":"COLEGIO ANA LUIZA","municipio":"Porto Belo","latitude":-27.15338,"longitude":-48.53607,"qt_mat_eja":80,"qt_mat_eja_fund":11,"qt_mat_eja_med":69}
+,{"escola":"E M PROF ROSA MARIA BEREZOSKI DEMARCHI","municipio":"Joinville","latitude":-26.21248,"longitude":-48.82397,"qt_mat_eja":81,"qt_mat_eja_fund":81,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA MUNICIPAL DE EDUCACAO DE JOVENS E ADULTOS","municipio":"Penha","latitude":-26.78532962,"longitude":-48.62972914,"qt_mat_eja":129,"qt_mat_eja_fund":129,"qt_mat_eja_med":0}
+,{"escola":"ESC DE ED DE JOVENS E ADULTOS BRUSQUE","municipio":"Brusque","latitude":-27.09730583,"longitude":-48.90745413,"qt_mat_eja":169,"qt_mat_eja_fund":169,"qt_mat_eja_med":0}
+,{"escola":"CEM PROFESSOR JUVILIANO MANOEL PEDROSO","municipio":"Fraiburgo","latitude":-27.0527,"longitude":-50.93478667,"qt_mat_eja":65,"qt_mat_eja_fund":65,"qt_mat_eja_med":0}
+,{"escola":"COLEGIO MILENIUM CRICIUMA","municipio":"Criciúma","latitude":-28.6802638,"longitude":-49.3702138,"qt_mat_eja":207,"qt_mat_eja_fund":27,"qt_mat_eja_med":180}
+,{"escola":"UD DE RIO NEGRINHO","municipio":"Rio Negrinho","latitude":-26.259908,"longitude":-49.5171515,"qt_mat_eja":16,"qt_mat_eja_fund":0,"qt_mat_eja_med":16}
+,{"escola":"EMEJA ESCOLA MUNICIPAL DE EDUCACAO DE JOVENS E ADULTOS","municipio":"São Bento do Sul","latitude":-26.25223,"longitude":-49.37934,"qt_mat_eja":44,"qt_mat_eja_fund":44,"qt_mat_eja_med":0}
+,{"escola":"UD DE PORTO UNIAO","municipio":"Porto União","latitude":-26.24094742,"longitude":-51.08176195,"qt_mat_eja":3,"qt_mat_eja_fund":0,"qt_mat_eja_med":3}
+,{"escola":"UD DE TRES BARRAS","municipio":"Três Barras","latitude":-26.15007053,"longitude":-50.36900484,"qt_mat_eja":38,"qt_mat_eja_fund":0,"qt_mat_eja_med":38}
+,{"escola":"IFSC - CAMPUS CHAPECO","municipio":"Chapecó","latitude":-27.13746,"longitude":-52.59889,"qt_mat_eja":9,"qt_mat_eja_fund":0,"qt_mat_eja_med":9}
+,{"escola":"IFSC - CAMPUS JOINVILLE","municipio":"Joinville","latitude":-26.2782054,"longitude":-48.88008063,"qt_mat_eja":16,"qt_mat_eja_fund":0,"qt_mat_eja_med":16}
+,{"escola":"EJA - JUSSANIA URSULINA BURIGO DE SOUZA","municipio":"Timbé do Sul","latitude":-28.8335504,"longitude":-49.84090841,"qt_mat_eja":68,"qt_mat_eja_fund":30,"qt_mat_eja_med":38}
+,{"escola":"UD PENITENCIARIA INDUSTRIAL DE BLUMENAU","municipio":"Blumenau","latitude":-26.8979978,"longitude":-49.0213043,"qt_mat_eja":71,"qt_mat_eja_fund":28,"qt_mat_eja_med":43}
+,{"escola":"UD DE CAMPO BELO","municipio":"Campo Belo do Sul","latitude":-27.9008343,"longitude":-50.7590191,"qt_mat_eja":20,"qt_mat_eja_fund":0,"qt_mat_eja_med":20}
+,{"escola":"UD CAMPO ALEGRE","municipio":"Campo Alegre","latitude":-26.19258407,"longitude":-49.26569715,"qt_mat_eja":6,"qt_mat_eja_fund":0,"qt_mat_eja_med":6}
+,{"escola":"UD PRESIDIO REGIONAL DE RIO DO SUL","municipio":"Rio do Sul","latitude":-27.18207393,"longitude":-49.70210739,"qt_mat_eja":20,"qt_mat_eja_fund":20,"qt_mat_eja_med":0}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA DE INDAIAL","municipio":"Indaial","latitude":-26.89739653,"longitude":-49.22531883,"qt_mat_eja":18,"qt_mat_eja_fund":11,"qt_mat_eja_med":7}
+,{"escola":"UD DE PAINEL","municipio":"Painel","latitude":-27.92063403,"longitude":-50.10478204,"qt_mat_eja":19,"qt_mat_eja_fund":10,"qt_mat_eja_med":9}
+,{"escola":"UD PRESIDIO MASCULINO DE LAGES","municipio":"Lages","latitude":-27.8373982,"longitude":-50.355503,"qt_mat_eja":32,"qt_mat_eja_fund":22,"qt_mat_eja_med":10}
+,{"escola":"CEIT LEONEL DE MOURA BRIZOLA","municipio":"Bombinhas","latitude":-27.15324179,"longitude":-48.51761545,"qt_mat_eja":53,"qt_mat_eja_fund":53,"qt_mat_eja_med":0}
+,{"escola":"SESI SC - BRACO DO NORTE II","municipio":"Braço do Norte","latitude":-28.2799738,"longitude":-49.14699817,"qt_mat_eja":171,"qt_mat_eja_fund":55,"qt_mat_eja_med":116}
+,{"escola":"INSTITUICAO DE ENSINO PALHOCA","municipio":"Palhoça","latitude":null,"longitude":null,"qt_mat_eja":92,"qt_mat_eja_fund":14,"qt_mat_eja_med":78}
+,{"escola":"UD PENITENCIARIA MASCULINA DE TUBARAO","municipio":"Tubarão","latitude":null,"longitude":null,"qt_mat_eja":59,"qt_mat_eja_fund":35,"qt_mat_eja_med":24}
+,{"escola":"UD PENITENCIARIA REGIONAL DE CURITIBANOS","municipio":"São Cristóvão do Sul","latitude":-27.26662204,"longitude":-50.43310425,"qt_mat_eja":158,"qt_mat_eja_fund":65,"qt_mat_eja_med":93}
+,{"escola":"UD QUILOMBOLA ROSALINA","municipio":"Araranguá","latitude":null,"longitude":null,"qt_mat_eja":61,"qt_mat_eja_fund":36,"qt_mat_eja_med":25}
+,{"escola":"UD QUILOMBOLA TOCA SANTA CRUZ","municipio":"Paulo Lopes","latitude":null,"longitude":null,"qt_mat_eja":19,"qt_mat_eja_fund":7,"qt_mat_eja_med":12}
+,{"escola":"UD QUILOMBOLA CAMPO DOS POLI","municipio":"Fraiburgo","latitude":null,"longitude":null,"qt_mat_eja":30,"qt_mat_eja_fund":10,"qt_mat_eja_med":20}
+,{"escola":"IFSC - CAMPUS FLORIANOPOLIS-CONTINENTE","municipio":"Florianópolis","latitude":-27.59981808,"longitude":-48.57181653,"qt_mat_eja":114,"qt_mat_eja_fund":0,"qt_mat_eja_med":114}
+,{"escola":"SESI SC - CAPINZAL","municipio":"Capinzal","latitude":-27.37986753,"longitude":-51.58296838,"qt_mat_eja":27,"qt_mat_eja_fund":0,"qt_mat_eja_med":27}
+,{"escola":"UD UNIDADE PRISIONAL AVANCADA SMO","municipio":"São Miguel do Oeste","latitude":-26.7240298,"longitude":-53.5229885,"qt_mat_eja":33,"qt_mat_eja_fund":26,"qt_mat_eja_med":7}
+,{"escola":"NUCLEO DE EDUCACAO PARA JOVENS E ADULTOS - NEJA","municipio":"Biguaçu","latitude":null,"longitude":null,"qt_mat_eja":273,"qt_mat_eja_fund":273,"qt_mat_eja_med":0}
+,{"escola":"UD DE SALTINHO","municipio":"Saltinho","latitude":-26.60738626,"longitude":-53.05796193,"qt_mat_eja":11,"qt_mat_eja_fund":9,"qt_mat_eja_med":2}
+,{"escola":"UD DE IRACEMINHA","municipio":"Iraceminha","latitude":-26.82472255,"longitude":-53.273835,"qt_mat_eja":21,"qt_mat_eja_fund":9,"qt_mat_eja_med":12}
+,{"escola":"SESC LER","municipio":"Caçador","latitude":-26.78830123,"longitude":-51.00800989,"qt_mat_eja":35,"qt_mat_eja_fund":35,"qt_mat_eja_med":0}
+,{"escola":"ESCOLA DE JOVENS E ADULTOS SAO CRISTOVAO DO SUL","municipio":"São Cristóvão do Sul","latitude":-27.26718534,"longitude":-50.4429937,"qt_mat_eja":56,"qt_mat_eja_fund":28,"qt_mat_eja_med":28}
+,{"escola":"SESI SC - XANXERE","municipio":"Xanxerê","latitude":-26.87299,"longitude":-52.40764,"qt_mat_eja":27,"qt_mat_eja_fund":0,"qt_mat_eja_med":27}
+]
