@@ -238,7 +238,88 @@ function addChartMarker(lat, lng, title, chartSpecs, size, subtitle = "") {
           responsive: false, maintainAspectRatio: false, cutout: "58%",
           plugins: { 
             legend: { display: false}, 
-            tooltip: { enabled: true }
+            tooltip: { 
+              enabled: false,
+              external: context => {
+                // Tooltip Element
+                let tooltipEl = document.getElementById('chartjs-tooltip');
+
+                // Create element on first render
+                if (!tooltipEl) {
+                  tooltipEl = document.createElement('div');
+                  tooltipEl.id = 'chartjs-tooltip';
+                  tooltipEl.innerHTML = '<table></table>';
+                  document.body.appendChild(tooltipEl);
+                }
+
+                // Hide if no tooltip
+                const tooltipModel = context.tooltip;
+                if (tooltipModel.opacity === 0) {
+                  tooltipEl.style.opacity = 0;
+                  return;
+                }
+
+                // Set caret Position
+                tooltipEl.classList.remove('above', 'below', 'no-transform');
+                if (tooltipModel.yAlign) {
+                  tooltipEl.classList.add(tooltipModel.yAlign);
+                } else {
+                  tooltipEl.classList.add('no-transform');
+                }
+
+                function getBody(bodyItem) {
+                  return bodyItem.lines;
+                }
+
+                // Set Text
+                if (tooltipModel.body) {
+                  const titleLines = tooltipModel.title || [];
+                  const bodyLines = tooltipModel.body.map(getBody);
+
+                  let innerHtml = '<thead>';
+
+                  titleLines.forEach(function(title) {
+                    innerHtml += '<tr><th>' + title + '</th></tr>';
+                  });
+                  innerHtml += '</thead><tbody>';
+
+                  bodyLines.forEach(function(body, i) {
+                    const colors = tooltipModel.labelColors[i];
+                    let style = 'background:' + colors.backgroundColor;
+                    style += '; border-width: 2px';
+                    style += '; border-color:' + colors.borderColor;
+                    style += '; border-width: 2px';
+                    const span = '<span style="' + style + '">' + body + '</span>';
+                    innerHtml += '<tr><td>' + span + '</td></tr>';
+                  });
+                  innerHtml += '</tbody>';
+
+                  let tableRoot = tooltipEl.querySelector('table');
+                  tableRoot.innerHTML = innerHtml;
+                }
+
+                const position = context.chart.canvas.getBoundingClientRect();
+                const bodyFont = Chart.helpers.toFont(tooltipModel.options.bodyFont);
+
+                // Display, position, and set styles for font
+                const tooltipStyle = `
+
+                  z-index: 1000;
+                  background-color: black;
+                  color: white;
+                  opacity: 1;
+                  position: absolute;
+                  border-radius: 12px;
+                  left: ${position.left + window.pageXOffset + tooltipModel.caretX}px;
+                  top: ${position.top + window.pageYOffset + tooltipModel.caretY}px;
+                  font: ${bodyFont.string};
+                  padding: 5px;
+                  pointer-events: none;
+                `
+                tooltipEl.style.cssText = tooltipStyle
+              console.log(tooltipStyle)
+              }
+            }
           }
         }
       });
