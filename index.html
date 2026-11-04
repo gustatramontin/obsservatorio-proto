@@ -9,58 +9,66 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <header class="topbar">
-    <div class="eyebrow">Painel de dados · Santa Catarina</div>
-    <h1>Educação e Educação de Jovens e Adultos</h1>
-    <p class="intro">Explore os indicadores por município e refine o mapa com filtros simples de escolaridade, faixa etária e cidade.</p>
+<body class="flexcol">
+  <header class="flexrow">
+    <a class="box">Observatório</a>
+    <a class="box">MAPA</a>
+    <a class="box">STATS</a>
+    <a class="box">SOBRE</a>
   </header>
   <main>
-    <div class="layout">
-      <aside class="panel" aria-label="Filtros do mapa">
-        <h2>Filtros</h2>
-        <p class="panel-copy">Combine os critérios. O mapa será atualizado automaticamente.</p>
-        <div class="filters-grid">
-          <div class="field">
-            <label for="cidades">Município</label>
-            <select id="cidades"><option value="">Todas as cidades</option></select>
+        <section id="filters" class="box flexcol">
+          <h2>Filtros</h2>
+
+          <div class="flexrow">
+            <label for="city-filter">Cidades</label>
+            <select id="city-filter"></select>
           </div>
-          <div class="field">
-            <label for="escolaridade">Escolaridade</label>
-            <select id="escolaridade">
-              <option value="todos">Todos os níveis</option>
-              <option value="fund">Fundamental incompleto</option>
-              <option value="med">Ensino médio incompleto</option>
-            </select>
+
+
+          <h3>Escolaridade</h3>
+          <div id="scholarity-filters" class="flexcol">
           </div>
-          <div class="field">
-            <label for="idade">Faixa etária</label>
-            <select id="idade">
-              <option value="all">Todas as idades</option>
-              <option value="18-34">18 a 34 anos</option>
-              <option value="35-49">35 a 49 anos</option>
-              <option value="50-64">50 a 64 anos</option>
-              <option value="65+">65 anos ou mais</option>
-            </select>
+
+          <h3>Faixa Etária</h3>
+          
+          <div id="age-filters" class="flexcol">
           </div>
-          <div class="toggle">
-            <input id="mostrar-eja" type="checkbox" checked>
-            <label for="mostrar-eja">Mostrar escolas de EJA
-              <small>Exibe unidades individuais ao aproximar o mapa.</small>
-            </label>
-          </div>
-        </div>
-      </aside>
-      <section class="map-card" aria-label="Mapa de indicadores">
-        <div class="map-head">
-          <strong>Mapa interativo</strong>
-          <span class="pill">Santa Catarina · Brasil</span>
-        </div>
-        <div id="map" role="application" aria-label="Mapa interativo de Santa Catarina"></div>
-        <div id="status" role="status" aria-live="polite">Carregando dados…</div>
-      </section>
-    </div>
+        </section>
+        <section id="map" role="application" aria-label="Mapa interativo de Santa Catarina"></section>
+        <section id="stats" class="box flexcol">
+          <h2>Dados de <span id="city-name">[CIDADE]</span></h2>
+          <article class="chart box flexcol"> 
+            <h3>Escolaridade</h3>
+            <p> População de <strong id="city-population">[POPULAÇÃO]</strong> pessoas</p>
+            <div class="box flexrow">
+              <ul> <li><strong id="city-fund"></strong> pessoas Sem instrução e fundamental incompleto</li>
+                <li><strong id="city-med"></strong> pessoas Fundamental completo  e médio incompleto</li>
+                <li><strong id="city-med-com"></strong> Médio completo e superior incompleto</li>
+
+                <li><strong id="city-sup"></strong>Superior completo</li>
+              </ul>
+              <canvas id="city-scholarity-chart"></canvas>
+            </div>
+            <p>Com <strong id="demanda-eja"></strong> pessoas sem fundamental e ou ensino médio completo</p>
+          </article>
+          <article class="chart box flexcol">
+
+            <h3>Matriculas EJA</h3>
+            <p><strong id="eja-mat"></strong> matrículas na EJA</p>
+            <div class="box flexrow">
+              <ul>
+                <li><strong id="eja-mat-fund"></strong> fundamental</li>
+                <li><strong id="eja-mat-med"></strong> ensino médio</li>
+              </ul>
+              <canvas id="city-eja-chart"></canvas>
+            </div>
+            <p>Com <strong id="demanda-eja-atendida"></strong> da demanda na eja atendinda, <strong id="demanda-eja-atendida-fund"></strong> no ensino fundamental e <strong id="demanda-eja-atendida-med"></strong> no ensino médio
+            
+          </article>
+
+        </section>
   </main>
-  <script defer src="main.js"></script>
+  <script type="module" defer src="src/main.js"></script>
 </body>
 </html>
