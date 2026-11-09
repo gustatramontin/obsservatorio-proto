@@ -20,22 +20,32 @@
         <section id="filters" class="box flexcol">
           <h2>Filtros</h2>
 
-          <div class="flexrow">
+          <div class="filter flexcol">
             <label for="city-filter">Cidades</label>
             <select id="city-filter"></select>
           </div>
 
 
           <h3>Escolaridade</h3>
-          <div id="scholarity-filters" class="flexcol">
+          <div id="scholarity-filters" class="filter flexcol">
           </div>
 
           <h3>Faixa Etária</h3>
           
-          <div id="age-filters" class="flexcol">
+          <div id="age-filters" class="filter flexcol">
           </div>
         </section>
-        <section id="map" role="application" aria-label="Mapa interativo de Santa Catarina"></section>
+        <section id="map" role="application" aria-label="Mapa interativo de Santa Catarina">
+          <div id="map-chart-legend">
+            <ul>
+              <li><strong>[X]</strong> Sem instrução e fundamental incompleto</li>
+              <li><strong>[X]</strong> Fundamental completo e médio incompleto</li>
+              <li><strong>[X]</strong> Médio completo e superior incompleto</li>
+              <li><strong>[X]</strong> Superior completo</li>
+
+            </ul>
+          </div>
+        </section>
         <section id="stats" class="box flexcol">
           <h2>Dados de <span id="city-name">[CIDADE]</span></h2>
           <article class="chart box flexcol"> 

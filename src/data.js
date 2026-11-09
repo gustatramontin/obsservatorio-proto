@@ -19,8 +19,15 @@ export async function fetchJson(fileName) {
   return response.json();
 }
 
+function zeroObj(obj) {
+
+  if (typeof obj === 'number')
+    return 0
+
+  return Object.fromEntries(Object.entries(obj).map(([key, value]) => [key, zeroObj(value)]))
+}
 function filterKeys(obj, keys) {
-  return Object.fromEntries(Object.entries(obj).filter(([key, _] ) => keys.includes(key)))
+  return Object.fromEntries(Object.entries(obj).map(([key, value] ) => keys.includes(key) ? [key, value] : [key, zeroObj(value)]))
 }
 
 export function filterCity(cityData, ages = IDADES, levels = NIVEIS) {

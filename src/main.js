@@ -15,17 +15,39 @@ const chartLayer = L.layerGroup().addTo(map);
 let citiesData = [] 
 let mapCharts = [];
 let statsCharts = []
+let closestCity = undefined
 
 async function loadData() {
   const json = await fetchJson("cities.json")
   citiesData = json
 }
 
+function cityClosestToPoint(cities, x, y) {
+  let closest = cities[0]
+  const dist = (city1) => Math.sqrt((city1.latitude-y)**2 + (city1.longitude-x)**2)
+  for (let city of cities) {
+    if (dist(city) < dist(closest))
+      closest = city
+  }
+
+  return closest
+}
+
+function cityStats() {
+
+
+  const closestCity = cityClosestToPoint(citiesData, map.getCenter().lng, map.getCenter().lat)
+  statsCharts.forEach(s => s.destroy())
+  statsCharts = updateStats(closestCity)
+
+  return closestCity
+}
 
 function updateMap() {
   chartLayer.clearLayers();
   mapCharts.forEach(chart => chart.destroy());
   mapCharts = [];
+  closestCity = cityStats()
 
   const sumArrays = (a1,a2) => [...a1].map((x,i) => x+a2[i])
   const sumData = arr => {
@@ -36,11 +58,10 @@ function updateMap() {
   }
   const zoom = map.getZoom();
   const chartSize = zoom*15
-  console.log(getAgeFilter())
-  const citiesAgeChart = citiesData.map( x => ageChart(x, getScholarityFilter()))
-  const citiesScholarityChart = citiesData.map(x => scholarityChart(x, getAgeFilter()))
+  //const citiesAgeChart = citiesData.map( x => ageChart(x, getScholarityFilter()))
+  const citiesScholarityChart = citiesData.map(x => scholarityChart(x, getAgeFilter(), getScholarityFilter()))
 
-  const scAgeChart = sumData(citiesAgeChart)
+  //const scAgeChart = sumData(citiesAgeChart)
   const scScholarityChart = sumData(citiesScholarityChart)
 
    // if (zoom < 10) map.setView([city.latitude, city.longitude], 10);
@@ -48,20 +69,19 @@ function updateMap() {
   if (zoom < 10) {
       const SC_LATITUDE  = -27.242
       const SC_LONGITUDE = -50.2189
-      addChartMarker(SC_LATITUDE, SC_LONGITUDE, "Santa Catarina", [scAgeChart, scScholarityChart], chartSize, "subTitle");
+      addChartMarker(SC_LATITUDE, SC_LONGITUDE, "Santa Catarina", [scScholarityChart], chartSize, "subTitle");
   } else if (zoom < 12) {
     for (let i in citiesData) {
         const city = citiesData[i]
         if (!map.getBounds().contains([city.latitude, city.longitude])) continue;
         const population = Object.values(city.escolaridade["todas as idades"]).reduce((a,b) => a+b)
-        addChartMarker(city.latitude, city.longitude, city.name, [citiesAgeChart[i], citiesScholarityChart[i]], chartSize/2, population.toLocaleString("pt-BR"));
+        addChartMarker(city.latitude, city.longitude, city.name, [citiesScholarityChart[i]], chartSize/2, population.toLocaleString("pt-BR"));
     }
   } else {
     for (let i in citiesData) {
         const city = citiesData[i]
         if (!map.getBounds().contains([city.latitude, city.longitude])) continue;
         city.schools.forEach(s => {
-          console.log(s)
 
           const spec = {
             type: "pie",
@@ -80,10 +100,11 @@ function updateMap() {
 
 function addChartMarker(lat, lng, title, chartSpecs, size, subtitle = "") {
   const markerId = `marker-${Math.random().toString(36).slice(2)}`;
+  const selected = chartSpecs[0].name == closestCity.name
   const canvases = chartSpecs.map((_, i) =>
     `<canvas id="${markerId}-${i}" aria-label="Gráfico de ${escapeHtml(title)}"></canvas>`
   ).join("");
-  const html = `<div class="map-marker flexcol" style="width:${size}px">
+  const html = `<div class="map-marker flexcol ${selected ? 'selected-city' : ''}" style="width:${size}px">
                     <div class="map-marker-title">${escapeHtml(title)}</div>
                       ${subtitle ? `<div class="map-marker-count">${escapeHtml(subtitle)}</div>` : ""}
                     <div class="map-marker-charts flexcol">${canvases}</div>
@@ -92,7 +113,7 @@ function addChartMarker(lat, lng, title, chartSpecs, size, subtitle = "") {
 
   const icon = L.divIcon({
     html, className: "custom-chart-marker",
-    iconSize: [size + 18, size + 35], iconAnchor: [(size + 18) / 2, (size + 35) / 2]
+    iconSize: [size, size], iconAnchor: [(size) / 2, (size) / 2]
   });
   const marker = L.marker([lat, lng], { icon });
   marker.on("add", () => {

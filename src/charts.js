@@ -36,8 +36,8 @@ export function ageChart(cityData, filters=NIVEIS) {
   
 }
 
-export function scholarityChart(cityData, filters=["todas as idades"]) {
-  const scholarityFiltered = filterCity(cityData, filters, NIVEIS)
+export function scholarityChart(cityData, ageFilters=IDADES, scholarityFilter=NIVEIS) {
+  const scholarityFiltered = filterCity(cityData, ageFilters, scholarityFilter)
   const keysSummed = Object.values(scholarityFiltered).reduce((prev, curr) => {
     Object.keys(prev).forEach(k => {
       curr[k] += prev[k]

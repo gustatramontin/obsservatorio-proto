@@ -10,6 +10,9 @@
  --chart-color-2: #14b8a6; 
  --chart-color-3: #f59e0b;
  --chart-color-4: #a78bfa;
+
+ --margin: 5px;
+ --padding: 20px;
 }
 
 * {
@@ -23,10 +26,10 @@ h1 {
   font-size: 5rem;
 }
 h2 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 p {
   font-size: var(--p-size);
@@ -48,10 +51,12 @@ strong {
 
 .box {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 5px;
-  border: 1px solid black;
+  padding: 20px;
+  /*border: 1px solid black;*/
+}
+
+#filters .filter > *, ul li {
+  margin: var(--margin);
 }
 
 body {
@@ -61,11 +66,12 @@ body {
 header {
   justify-content: space-between;
   height: 5vh;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
 }
 
 header a {
   flex: 1;
+  border-left: 1px solid black;*/
 }
 main {
   display: grid;
@@ -73,23 +79,43 @@ main {
   height: 95vh;
 }
 
+
+#filters .filter  * {
+}
+
+#map-chart-legend {
+  position: fixed;
+  z-index: 1000;
+  bottom: 0;
+  background-color: white;
+}
+#map-chart-legend ul {
+    list-style-type: none;
+}
+#map-chart-legend ul li strong {
+  color: transparent;
+}
+
 #stats {
 }
 
+#stats article {
+  margin-bottom: var(--marging);
+}
 #stats article.chart {
   width: 100%;
 }
 
-#stats article.chart ul li:nth-child(1) strong {
+ul li:nth-child(1) strong {
   background-color: var(--chart-color-1);
 }
-#stats article.chart ul li:nth-child(2) strong {
+ul li:nth-child(2) strong {
   background-color: var(--chart-color-2);
 }
-#stats article.chart ul li:nth-child(3) strong {
+ul li:nth-child(3) strong {
   background-color: var(--chart-color-3);
 }
-#stats article.chart ul li:nth-child(4) strong {
+ul li:nth-child(4) strong {
   background-color: var(--chart-color-4);
 }
 
@@ -106,6 +132,12 @@ main {
  text-align:center;
  width: 100%;
  height: 100%;
+ position: relative;
+ bottom: 50px;
+}
+
+.selected-city {
+  border: 1px solid red;
 }
 
 .map-marker-title {

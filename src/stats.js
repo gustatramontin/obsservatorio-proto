@@ -25,7 +25,6 @@ function setPercent(id, newNumber, newTotal) {
 }
 export function updateStats(cityData) {
   let charts = []
-  console.log(cityData)
   const cityName = cityData.name
   const population = Object.values(cityData.escolaridade["todas as idades"]).reduce((a,b) => a+b)
   const fund       = cityData.escolaridade["todas as idades"]["Sem instrução e fundamental incompleto"]
