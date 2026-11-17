@@ -59,6 +59,10 @@ strong {
   margin: var(--margin);
 }
 
+.filter input, .filter select {
+  padding: 5px;
+}
+
 body {
   min-height: 100vh;
 }
@@ -71,11 +75,23 @@ header {
 
 header a {
   flex: 1;
-  border-left: 1px solid black;*/
+  align-items: center;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header a:hover {
+  filter: brightness(50%);
+}
+
+header a#cadeja {
+  background-color:  var(--blue);
+  color: white;
+  border-radius: 20px;
 }
 main {
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 4fr 2fr;
   height: 95vh;
 }
 
@@ -84,9 +100,6 @@ main {
 }
 
 #map-chart-legend {
-  position: fixed;
-  z-index: 1000;
-  bottom: 0;
   background-color: white;
 }
 #map-chart-legend ul {
@@ -120,7 +133,8 @@ ul li:nth-child(4) strong {
 }
 
 #stats article.chart canvas {
-  width: 50%;
+  width: 100px !important;
+  height: 100px !important;
 }
 
 #map {
@@ -137,7 +151,7 @@ ul li:nth-child(4) strong {
 }
 
 .selected-city {
-  border: 1px solid red;
+  border: 5px solid var(--blue);
 }
 
 .map-marker-title {
@@ -174,4 +188,9 @@ ul li:nth-child(4) strong {
   border-radius: 12px;
   padding: 5px;
   pointer-events: none;
+}
+
+footer {
+  justify-content: space-between;
+  height: 30vh;
 }

@@ -35,8 +35,8 @@ function populateCheckboxes(parentId, className, labels) {
   for (let label of labels) {
     el.innerHTML += `
         <div class="flexrow">
-          <input type="checkbox" class="${className}" value="${label}" checked>
-          <label>${label}<label>
+          <input id="${label}" type="checkbox" class="${className}" value="${label}" checked>
+          <label for="${label}">${label}<label>
         </div>
     `
   }

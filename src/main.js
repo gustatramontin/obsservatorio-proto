@@ -100,7 +100,8 @@ function updateMap() {
 
 function addChartMarker(lat, lng, title, chartSpecs, size, subtitle = "") {
   const markerId = `marker-${Math.random().toString(36).slice(2)}`;
-  const selected = chartSpecs[0].name == closestCity.name
+  const selected = chartSpecs[0].title == closestCity.name
+  console.log(chartSpecs, closestCity)
   const canvases = chartSpecs.map((_, i) =>
     `<canvas id="${markerId}-${i}" aria-label="Gráfico de ${escapeHtml(title)}"></canvas>`
   ).join("");

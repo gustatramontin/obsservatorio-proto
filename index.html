@@ -8,13 +8,14 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-mobile.css">
 </head>
 <body class="flexcol">
   <header class="flexrow">
     <a class="box">Observatório</a>
     <a class="box">MAPA</a>
-    <a class="box">STATS</a>
     <a class="box">SOBRE</a>
+    <a id="cadeja" class="box" href="https://cadeja.mec.gov.br/encontrar" target="_blank">Quer voltar a estudar? encontre aqui uma escola perto de você</a>
   </header>
   <main>
         <section id="filters" class="box flexcol">
@@ -34,9 +35,11 @@
           
           <div id="age-filters" class="filter flexcol">
           </div>
-        </section>
-        <section id="map" role="application" aria-label="Mapa interativo de Santa Catarina">
+
+
+          <div style="flex: 1;"><!--SPACER--></div>
           <div id="map-chart-legend">
+            <h3>Legenda dos Gráficos</h3>
             <ul>
               <li><strong>[X]</strong> Sem instrução e fundamental incompleto</li>
               <li><strong>[X]</strong> Fundamental completo e médio incompleto</li>
@@ -45,6 +48,8 @@
 
             </ul>
           </div>
+        </section>
+        <section id="map" role="application" aria-label="Mapa interativo de Santa Catarina">
         </section>
         <section id="stats" class="box flexcol">
           <h2>Dados de <span id="city-name">[CIDADE]</span></h2>
@@ -79,6 +84,10 @@
 
         </section>
   </main>
+  <footer class="box flexrow">
+    <img src="IFC.png">
+    <img src="FEJA.png">
+  </footer>
   <script type="module" defer src="src/main.js"></script>
 </body>
 </html>
