@@ -191,6 +191,15 @@ ul li:nth-child(4) strong {
 }
 
 footer {
-  justify-content: space-between;
-  height: 30vh;
+  justify-content: center;
+  background-color: var(--blue);
+  color: white;
 }
+
+footer > * {
+  padding: 20px;
+}
+
+k
+
+
