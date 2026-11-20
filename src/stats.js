@@ -38,27 +38,40 @@ export function updateStats(cityData) {
 
   setText("city-name", cityName)
   setNumber("city-population", population)
-  setNumberAndPercent("city-fund", fund, population)
-  setNumberAndPercent("city-med", med, population)
-  setNumberAndPercent("city-med-com", medcomp, population)
-  setNumberAndPercent("city-sup", sup, population)
+  //setNumberAndPercent("city-fund", fund, population)
+  //setNumberAndPercent("city-med", med, population)
+  //setNumberAndPercent("city-med-com", medcomp, population)
+  //setNumberAndPercent("city-sup", sup, population)
 
-  charts.push(spec2chart("city-scholarity-chart", scholarityChart(cityData)))
+  //charts.push(spec2chart("city-scholarity-chart", scholarityChart(cityData)))
 
 
-  setNumberAndPercent("demanda-eja", fund+med, population)
+  setNumber("demanda-eja", fund+med)
+  setPercent("demanda-eja-percent", fund+med, population)
+
+  setNumber("demanda-eja-fund", fund)
+  setNumber("demanda-eja-fund-2", med)
+  setPercent("demanda-eja-fund-percent", fund, population)
+
+  setNumber("demanda-eja-med", med)
+  setNumber("demanda-eja-med-2", med)
+  setPercent("demanda-eja-med-percent", med, population)
+
+  fromId("fund-bar").style.width = `${fund/population*100}%`
+  fromId("med-bar").style.width = `${med/population*100}%`
+
 
   setNumber("eja-mat", ejaMat)
   setNumber("eja-mat-fund", ejaMatFund)
   setNumber("eja-mat-med", ejaMatMed)
-  charts.push(spec2chart("city-eja-chart", {
-    title: "",
-    type: "pie",
-    data: [ejaMatFund, ejaMatMed],
-    labels: ["Matrículas EJA Fundamental", "Matrículas EJA Médio"],
-    legend: false,
-    tooltip: true
-  }))
+  //charts.push(spec2chart("city-eja-chart", {
+  //  title: "",
+  //  type: "pie",
+  //  data: [ejaMatFund, ejaMatMed],
+  //  labels: ["Matrículas EJA Fundamental", "Matrículas EJA Médio"],
+  //  legend: false,
+  //  tooltip: true
+  //}))
 
   setPercent("demanda-eja-atendida", ejaMat, fund+med)
   setPercent("demanda-eja-atendida-fund", ejaMatFund, med)

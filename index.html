@@ -7,79 +7,146 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="style-mobile.css">
+  <link rel="stylesheet" href="styles/global.css">
+  <link rel="stylesheet" href="styles/stats.css">
+  <link rel="stylesheet" href="styles/mobile.css">
 </head>
 <body class="flexcol">
-  <header class="flexrow">
-    <a class="box">Observatório</a>
-    <a id="cadeja" class="box" href="https://cadeja.mec.gov.br/encontrar" target="_blank">Quer voltar a estudar? encontre aqui uma escola perto de você</a>
-  </header>
   <main>
-        <section id="filters" class="box flexcol">
-          <h2>Filtros</h2>
+        <section id="map-sec" role="application" aria-label="Mapa interativo de Santa Catarina">
+          <div id="map"></div>
+
+        <fieldset id="filters" class="box flexrow gap">
+          <legend><img src="icons/filters.svg"></img></legend>
 
           <div class="filter flexcol">
-            <label for="city-filter">Cidades</label>
+           <label for="city-filter">Cidades</label>
             <select id="city-filter"></select>
           </div>
 
 
-          <h3>Escolaridade</h3>
           <div id="scholarity-filters" class="filter flexcol">
+            <label>Escolaridade</label>
           </div>
 
-          <h3>Faixa Etária</h3>
           
           <div id="age-filters" class="filter flexcol">
+            <label>Faixa Etária</label>
           </div>
 
 
-          <div style="flex: 1;"><!--SPACER--></div>
           <div id="map-chart-legend">
-            <h3>Legenda dos Gráficos</h3>
+            <label>Legenda dos Gráficos</label>
             <ul>
-              <li><strong>[X]</strong> Sem instrução e fundamental incompleto</li>
-              <li><strong>[X]</strong> Fundamental completo e médio incompleto</li>
-              <li><strong>[X]</strong> Médio completo e superior incompleto</li>
-              <li><strong>[X]</strong> Superior completo</li>
+              <li><strong>m</strong> Sem instrução e fundamental incompleto</li>
+              <li><strong>m</strong> Fundamental completo e médio incompleto</li>
+              <li><strong>m</strong> Médio completo e superior incompleto</li>
+              <li><strong>m</strong> Superior completo</li>
 
             </ul>
           </div>
-        </section>
-        <section id="map" role="application" aria-label="Mapa interativo de Santa Catarina">
+        </fieldset>
         </section>
         <section id="stats" class="box flexcol">
-          <h2>Dados de <span id="city-name">[CIDADE]</span></h2>
-          <article class="chart box flexcol"> 
-            <h3>Escolaridade</h3>
-            <p> População de <strong id="city-population">[POPULAÇÃO]</strong> pessoas</p>
-            <div class="box flexrow">
-              <ul> <li><strong id="city-fund"></strong> pessoas Sem instrução e fundamental incompleto</li>
-                <li><strong id="city-med"></strong> pessoas Fundamental completo  e médio incompleto</li>
-                <li><strong id="city-med-com"></strong> Médio completo e superior incompleto</li>
 
-                <li><strong id="city-sup"></strong>Superior completo</li>
-              </ul>
-              <canvas id="city-scholarity-chart"></canvas>
+          <header class="flexcol">
+            <h1>Observatório EJA/SC</h1>
+            <a id="cadeja" href="https://cadeja.mec.gov.br/encontrar" target="_blank"><img src="icons/cadeja-logo.webp"> Quer voltar a estudar? encontre aqui uma escola perto de você</a>
+          </header>
+          <div id="stats-title" class="flexrow">
+            <div class="flexcol">
+              <h2><span id="city-name">[CIDADE]</span>(SC)</h2>
+              <p>Diagnóstico da Educação de Jovens e Adultos</p>
             </div>
-            <p>Com <strong id="demanda-eja"></strong> pessoas sem fundamental e ou ensino médio completo</p>
+            <img class="icon" src="icons/location.svg">
+          </div>
+          <article>
+            <ul>
+              <li class="flexrow">
+                <img class="icon" src="icons/people.svg">
+                <div class="flexcol">
+                  <p>Nível Populacional</p>
+                  <p><strong id="city-population"></strong></p>
+                  <p></p>
+                </div>
+              </li>
+              <li class="flexrow">
+                <img class="icon" src="icons/graduation.svg">
+                <div class="flexcol">
+                  <p>Demanda potencial</p>
+                  <p><strong id="demanda-eja"></strong></p>
+                  <p><span id="demanda-eja-percent"></span> da população</p>
+                </div>
+              </li>
+              <li class="flexrow">
+                <img class="icon" src="icons/book.svg">
+                <div class="flexcol">
+                  <p>Matrículas EJA</p>
+                  <p><strong id="eja-mat"></strong></p>
+                </div>
+              </li>
+              <li class="flexrow">
+                <img class="icon" src="icons/bars.svg">
+                <div class="flexcol">
+                  <p>Corbetura indicativa</p>
+                  <p><strong id="demanda-eja-atendida"></strong></p>
+                </div>
+              </li>
+            </ul>
           </article>
-          <article class="chart box flexcol">
+          <article>
+            <h3>Demanda potencial por nível de ensino</h3>
 
-            <h3>Matriculas EJA</h3>
-            <p><strong id="eja-mat"></strong> matrículas na EJA</p>
-            <div class="box flexrow">
-              <ul>
-                <li><strong id="eja-mat-fund"></strong> fundamental</li>
-                <li><strong id="eja-mat-med"></strong> ensino médio</li>
-              </ul>
-              <canvas id="city-eja-chart"></canvas>
+            <div class="flexcol">
+              <div class="flexrow">
+                <h4>Ensino Fundamental</h3>
+                <div style="flex: 1"></div>
+                <p>
+                  <em id="demanda-eja-fund"></em>
+                   (<span id="demanda-eja-fund-percent"></span>)
+                </p>
+              </div>
+              <div class="bar-bg">
+                  <div id="fund-bar"></div>
+              </div>
+              <p>Sem instrução ou fundamental incompleto</p>
             </div>
-            <p>Com <strong id="demanda-eja-atendida"></strong> da demanda na eja atendinda, <strong id="demanda-eja-atendida-fund"></strong> no ensino fundamental e <strong id="demanda-eja-atendida-med"></strong> no ensino médio
-            
+
+
+            <div class="flexcol">
+              <div class="flexrow">
+                <h4>Ensino Médio</h3>
+                <div style="flex: 1"></div>
+                <p>
+                  <em id="demanda-eja-med"></em>
+                   (<span id="demanda-eja-med-percent"></span>)
+                </p>
+              </div>
+              <div class="bar-bg">
+                  <div id="med-bar"></div>
+              </div>
+              <p>Fundamental completo e médio incompleto</p>
+            </div>
           </article>
 
+          <article>
+            <h3>Quanto dessa demanda está atendida</h3>
+            <div class="flexrow gap">
+              <div id="fund-color-box" class="box flexcol">
+                <h4>Ensino Fundamental</h4>
+                <p><strong id="demanda-eja-atendida-fund"></strong></p>
+                <p><span id="eja-mat-fund"></span> matrículas</p>
+                <p><span id="demanda-eja-fund-2"></span> pessoas</p>
+              </div>
+
+              <div id="med-color-box" class="box flexcol">
+                <h4>Ensino Médio</h4>
+                <p><strong id="demanda-eja-atendida-med"></strong></p>
+                <p><span id="eja-mat-med"></span> matrículas</p>
+                <p><span id="demanda-eja-med-2"></span> pessoas</p>
+              </div>
+            </div>
+          </article>
         </section>
   </main>
   <footer class="box flexcol">
