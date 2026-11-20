@@ -32,9 +32,14 @@ export function updateStats(cityData) {
   const medcomp    = cityData.escolaridade["todas as idades"]["Médio completo e superior incompleto"]
   const sup        = cityData.escolaridade["todas as idades"]["Superior completo"]
 
-  const ejaMat = cityData.schools.map(x => x.matriculas.eja).reduce((a,b) => a+b)
-  const ejaMatFund = cityData.schools.map(x => x.matriculas.eja_fund).reduce((a,b) => a+b)
-  const ejaMatMed = cityData.schools.map(x => x.matriculas.eja_med).reduce((a,b) => a+b)
+  let ejaMat     = 0
+  let ejaMatFund = 0
+  let ejaMatMed  = 0
+  if (cityData.schools.length > 0) {
+    ejaMat     = cityData.schools.map(x => x.matriculas.eja).reduce((a,b) => a+b)
+    ejaMatFund = cityData.schools.map(x => x.matriculas.eja_fund).reduce((a,b) => a+b)
+    ejaMatMed  = cityData.schools.map(x => x.matriculas.eja_med).reduce((a,b) => a+b)
+  }
 
   setText("city-name", cityName)
   setNumber("city-population", population)

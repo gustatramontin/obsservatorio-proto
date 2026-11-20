@@ -83,17 +83,23 @@ function updateMap() {
         if (!map.getBounds().contains([city.latitude, city.longitude])) continue;
         city.schools.forEach(s => {
 
-          const spec = {
-            type: "pie",
-            title: s.name, 
-            legend: false,
-            tooltip: true,
-            data: [s.matriculas.eja_fund, s.matriculas.eja_med],
-            labels: ["Fundamendal", "Médio"]
-
+          if (!s.latitude || !s.longitude) {
+            s.latitude = city.latitude
+            s.longitude = city.longitude
           }
-          addChartMarker(s.latitude, s.longitude, s.name, [spec], chartSize/3, s.matriculas.eja.toLocaleString("pt-BR"));
+
+            const spec = {
+              type: "pie",
+              title: s.name, 
+              legend: false,
+              tooltip: true,
+              data: [s.matriculas.eja_fund, s.matriculas.eja_med],
+              labels: ["Fundamendal", "Médio"]
+
+            }
+            addChartMarker(s.latitude, s.longitude, s.name, [spec], chartSize/3, s.matriculas.eja.toLocaleString("pt-BR"));
         })
+
     }
   }
 }
@@ -101,7 +107,6 @@ function updateMap() {
 function addChartMarker(lat, lng, title, chartSpecs, size, subtitle = "") {
   const markerId = `marker-${Math.random().toString(36).slice(2)}`;
   const selected = chartSpecs[0].title == closestCity.name
-  console.log(chartSpecs, closestCity)
   const canvases = chartSpecs.map((_, i) =>
     `<canvas id="${markerId}-${i}" aria-label="Gráfico de ${escapeHtml(title)}"></canvas>`
   ).join("");
