@@ -50,7 +50,7 @@
           <dt>Estudantes bolsistas</dt>
           <dd>
             Denizete Souza — Educação de Jovens e Adultos integrada à Educação Profissional e Tecnológica (EJA-EPT)<br />
-            Gustavo Tramontim Pedro — Ciência da Computação
+            Gustavo Tramontin Pedro — Ciência da Computação
           </dd>
         </div>
         <div>
