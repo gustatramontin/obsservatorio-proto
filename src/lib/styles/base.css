@@ -1,0 +1,129 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.45;
+  color: var(--color-ink);
+  background-color: var(--color-bg);
+  accent-color: var(--color-green);
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+/* Global Chart.js floating tooltip */
+#chartjs-tooltip {
+  position: fixed;
+  z-index: 2000;
+  background-color: var(--color-ink);
+  color: #ffffff;
+  border-radius: var(--radius-md);
+  padding: var(--space-xs) var(--space-sm);
+  font-size: var(--text-xs);
+  box-shadow: var(--shadow-card);
+  pointer-events: none;
+  transition: opacity 0.12s ease;
+}
+
+#chartjs-tooltip table {
+  border-collapse: collapse;
+}
+
+#chartjs-tooltip th {
+  text-align: left;
+  font-weight: 700;
+  padding-bottom: 2px;
+}
+
+#chartjs-tooltip td {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tooltip-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+/* Leaflet custom chart marker overrides */
+.custom-chart-marker {
+  background: transparent;
+  border: none;
+}
+
+.map-marker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  background: var(--color-surface-translucent);
+  box-shadow: var(--shadow-card);
+  border: 1px solid rgba(23, 32, 51, 0.1);
+  border-radius: var(--radius-md);
+  padding: 6px 8px;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  min-width: 92px;
+  max-width: 190px;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.map-marker:hover {
+  z-index: 900 !important;
+  transform: translate(-50%, -50%) scale(1.05);
+}
+
+.map-marker.selected-city {
+  background-color: var(--color-dim-green);
+  border: 2px solid var(--color-green);
+}
+
+.map-marker-title {
+  font-size: 0.72rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #263248;
+  word-break: break-word;
+}
+
+.map-marker-count {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--color-blue);
+}
+
+.map-marker-charts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 56px;
+  height: 56px;
+}
+
+.map-marker-charts canvas {
+  width: 100% !important;
+  height: 100% !important;
+}

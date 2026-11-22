@@ -1,0 +1,49 @@
+{
+  "name": "Santa Catarina",
+  "latitude": -27.242,
+  "longitude": -50.2189,
+  "escolaridade": {
+    "18 a 34 anos": {
+      "Sem instrução e fundamental incompleto": 190985, "Fundamental completo e médio incompleto": 402708,
+      "Médio completo e superior incompleto": 1024614,
+      "Superior completo": 410582
+    },
+    "35 a 49 anos": {
+      "Sem instrução e fundamental incompleto": 360126,
+      "Fundamental completo e médio incompleto": 259682,
+      "Médio completo e superior incompleto": 659567,
+      "Superior completo": 464101
+    },
+    "50 a 64 anos": {
+      "Sem instrução e fundamental incompleto": 559903,
+      "Fundamental completo e médio incompleto": 227462,
+      "Médio completo e superior incompleto": 339662,
+      "Superior completo": 206061
+    },
+    "65 anos ou mais": {
+      "Sem instrução e fundamental incompleto": 517175,
+      "Fundamental completo e médio incompleto": 89746,
+      "Médio completo e superior incompleto": 110806,
+      "Superior completo": 81395
+    },
+    "todas as idades": {
+      "Sem instrução e fundamental incompleto": 1628247,
+      "Fundamental completo e médio incompleto": 979589,
+      "Médio completo e superior incompleto": 2134680,
+      "Superior completo": 1162516
+    }
+  },
+  "schools": [
+    {
+      "name": "TODAS",
+      "latitude": null,
+      "longitude": null,
+      "matriculas":
+      { 
+        "eja": 47017, 
+        "eja_fund": 21947, 
+        "eja_med": 25070 
+      }
+    }
+  ]
+}
