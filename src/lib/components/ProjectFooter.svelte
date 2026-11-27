@@ -43,7 +43,8 @@
             Ludmila Losada da Fonseca — IFC Campus Blumenau<br />
             Marcos Bohrer — IFC Campus Brusque<br />
             Rita de Cassia da Silveira Cordeiro — IFC Campus Blumenau<br />
-            Suely Aparecida de Jesus Montibeller — IFC Campus Blumenau
+            Suely Aparecida de Jesus Montibeller — IFC Campus Blumenau<br>
+            Daniel Godino Berger - Forum Estadual da EJA SC
           </dd>
         </div>
         <div>
