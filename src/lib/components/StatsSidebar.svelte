@@ -31,7 +31,7 @@
     <div class="city-banner">
       <div>
         <h2>{stats.name} <span class="uf-badge">SC</span></h2>
-        <p class="subtitle">Diagnóstico da Educação de Jovens e Adultos</p>
+        <p class="subtitle">Fonte IBGE 2022 · INEP 2025</p>
       </div>
       <img class="location-icon" src="/icons/location.svg" alt="" aria-hidden="true" />
     </div>
@@ -118,6 +118,17 @@
           <p>{fmtInt(stats.med)} pessoas</p>
         </div>
       </div>
+    </section>
+
+
+    <section class="panel-block eja-schools">
+      <h3>Escolas que ofertam o EJA</h3>
+      <h4>{city.schools.length} escolas</h4>
+        <ul>
+          {#each city.schools as school}
+              <li>{school.name}</li>
+          {/each}
+        </ul>
     </section>
   {:else}
     <p class="loading-state">Carregando dados municipais…</p>
@@ -353,6 +364,22 @@
   .loading-state {
     color: var(--color-ink-muted);
     font-size: var(--text-sm);
+  }
+
+  .eja-schools ul {
+    list-style-position: inside;
+    padding-left: var(--space-sm);
+    display: flex;
+    flex-flow: column wrap;
+    gap: var(--space-xs);
+  }
+  .eja-schools ul li {
+    font-size: var(--text-sm);
+  }
+
+  .eja-schools ul li::marker {
+    content: "· ";
+    font-weight: bolder;
   }
 
   @media (max-width: 420px) {
